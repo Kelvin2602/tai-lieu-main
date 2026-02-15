@@ -1,0 +1,6 @@
+Botnet Statistics (2006)
+- Web@Work Survey: Only 34% of IT confident in preventing bots on remote PCs.
+- 19% had infected employee laptops.
+- Estimates: 100 million compromised machines total.
+- Botnets of 350,000+ detected.
+- SDBot variants: Hundreds (Variant A, B, ...).

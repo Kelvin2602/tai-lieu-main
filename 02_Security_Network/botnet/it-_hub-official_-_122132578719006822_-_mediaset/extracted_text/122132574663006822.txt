@@ -1,0 +1,5 @@
+Ethernet Concepts
+- Broadcast Domain: Reachable by ARP broadcast.
+  - Virtual LANs (VLANs) segment broadcast domains.
+- Unicast Segmentation: Switch sends packet only to destination port.
+- Adaptive Learning: Switch learns MAC-to-Port mapping.

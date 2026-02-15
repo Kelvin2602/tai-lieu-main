@@ -1,0 +1,13 @@
+A Conceptual History of Botnets
+- Bots originally useful tools for IRC.
+- IRC invented Aug 1988 by Jarkko Oikarinen.
+
+Figure 1.1 The Evolution of Bot Technology
+Timeline:
+- 1988: IRC invented.
+- 1989: First Bot (GM).
+- 1999: Pretty Park (first worm to use IRC), SubSeven, GT Bot.
+- 2002: SDBot (C++ source available), Agobot/Gaobot (modular).
+- 2003: Spybot (keylogging), RBot.
+- 2004: PolyBot.
+- 2005: Mytob (mass mailing).

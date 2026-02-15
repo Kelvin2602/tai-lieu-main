@@ -1,0 +1,9 @@
+Table of Contents (continued)
+
+Chapter 10 Using Sandbox Tools for Botnets
+- CWSandbox describing components.
+- Analyzing reports (82f78..., Arman.exe).
+
+Chapter 11 Intelligence Resources
+- Disassemblers.
+- Public Information (Shadowserver, NANOG...).

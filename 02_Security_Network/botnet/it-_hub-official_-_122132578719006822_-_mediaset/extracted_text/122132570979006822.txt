@@ -1,0 +1,10 @@
+Bot Classifications and Naming
+- Mass mailing bot based on MyDoom.
+- Antivirus vendors tag components (e.g., Hacktool.HideWindow, Trojan.Dropper).
+- Overall bot might be RBot, but AV sees parts.
+- Mismatch in naming between vendors.
+- Variants have different capabilities (IRC vs P2P, keylogging vs financial theft).
+
+Spybot
+Open source Trojan, derivative of SDBot. Also called Milkit.
+Adds spyware capabilities (logging, form grabbing).

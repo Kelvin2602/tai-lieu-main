@@ -1,0 +1,7 @@
+Switch Security Features
+- DHCP Snooping: Tracks IP-MAC-Port association. Prevents DHCP MITM.
+- IP Source Guard: Prevents IP spoofing.
+- Dynamic ARP Inspection: Prevents ARP spoofing.
+
+Infrastructure Security
+- Limit hosts per VLAN (redundancy and security against sniffing/ARP poisoning).

@@ -1,0 +1,6 @@
+Bot Definition & Life Cycle
+- Botnet = Bot Server (Controller) + Botclients (thousands).
+- Command interpreter retrieves and executes commands.
+- Not just viruses; a toolset for malicious use (backdoors, remote control).
+- Figure 2.1: Botnet Life Cycle (referenced).
+- Solutions: Reduce demand for botnet services.

@@ -1,0 +1,6 @@
+Host-Based IDS (HIDS)
+- Monitors system state (files, registry) and activity.
+- Complementary to NIDS/Firewalls (detects internal attacks, USB malware).
+- Anomaly detection acts like "generic" AV detection.
+- Tripwire: File integrity checking.
+- Baselines: Establishing "normal" behavior.

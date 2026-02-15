@@ -1,0 +1,129 @@
+VITE_API_URL = https://leafy-sunflower-6cf24d.netlify.app/
+VITE_ANALYSIS_API_URL = https://api.minimax.chat/v1/
+VITE_ANALYSIS_API_KEY = eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJHcm91cE5hbWUiOiJrZWx2aW5sZWUiLCJVc2VyTmFtZSI6ImtlbHZpbmxlZSIsIkFjY291bnQiOiIiLCJTdWJqZWN0SUQiOiIxOTg1NzU1OTAzNzU1ODIxOTA4IiwiUGhvbmUiOiIxMzE1MDYyNjk2OCIsIkdyb3VwSUQiOiIxOTg1NzU1OTAzNzQ3NDMzMzAwIiwiUGFnZU5hbWUiOiIiLCJNYWlsIjoiIiwiQ3JlYXRlVGltZSI6IjIwMjUtMTEtMDYgMDM6MTQ6NTMiLCJUb2tlblR5cGUiOjEsImlzcyI6Im1pbmltYXgifQ.XngHDNeZ9bl-WvD9nfEMF-JGiLUXS3K_zoIql_MQ332ziFuGOZV6QktHsocZOvn4WjaqyzYFXIl5_fPc8ZBrj78f4ebd7v_yMDiIOJWPm7GvyIp8XZeajJRqQ7A-_PLt1MGBDbs4uNjkpFgEuUn76NkgGz4IZJHmMF1fLbdEpvvERROSDhi39Ca-Ozv1IxgnjCQDsX7uipvJsXQlCsz0zl61vmV-S0RxAnjdSmZTjBMuZNxYgoijmZidQVQhIRh2BuLbTHxgtQvTcus6K7wdXzHQb2dbJ1Q7mvOcBW4Z7KXumgID1RQR76nVTLKaEgLOfqAFEcqyXYq_8OWkGVqcUQ
+VITE_ANALYSIS_API_PATH = chat/completions
+VITE_ANALYSIS_MODEL = MiniMax-M2
+VITE_PROMPT_STYLE = narrative
+VITE_ANALYSIS_USE_MOCK = 1
+
+
+nfp_TrrRjnf9GdweZEYHCDrMFFijAeFJUK9B3423
+
+BaseURL
+OpenAI compatible baseURL:
+https://aiping.cn/api/v1
+QC-47846bc9cd107761cb898bc977225845-7fc812a15e87a9080d0d5edd14b6a687
+
+hugging face
+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
+
+
+url : https://api.qnaigc.com
+api : sk-9d9a59a7d48429ce618139eb4cba9831c8f03206e04e0e316932200f7513008f
+model : deepseek/deepseek-v3.2-251201
+
+i-t4n6s8em6xpw260cclzo
+root
+Dh1206@@
+
+NETLIFY
+personal access token
+nfp_4yi5eacyjnEWjstx3uXCCsBKqup5yLXd3a88
+zipper
+nfp_oDLwJfFmxT3NN3YEQJq4j9CAooW13t9Vb701
+https://www.facebook.com/rainmakervietnam/posts/pfbid02Xc2ksWpRpdjTwUyuZXqt7m3P9oaUMARYqJL73gbLqf26yyG7S96F9iaEwDpghHyMl	
+
+
+gOOng map
+API : mbUL3l4FR5os9hSIqi64TKSi418ZJrflqcunTiP5
+Maptiles Key: maD7UABfKF10GDVdtqEfN2vMEmwuSahugVzKCBur
+figma
+api :figd_CwLxpXsexHSjca6qjAiHqw4WeJBt3r4a3J1Mi2Kr
+
+TOKEN GITHUB
+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
+zipper6383
+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
+
+https://portal.qiniu.com/ai-inference/model
+七牛运
+AK : GFlFIujj2nF9zDAgMpTD4Ocuw6HyDC7SPO0UvXKI
+
+sk : d7FIVbyhKcel_Gu9Sxnn0D0q9_AKKo9HoRfLZqHW
+
+https://www.modelscope.cn/mcp
+Đăng nhập tài khoản github
+
+Github token : 	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
+zipper token : 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
+openrouter
+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
+
+N8N
+eyJhbGciOiJIUzI
+
+SMITH MCP
+116226d3-d9a5-4af8-b7db-d64e96a31495
+FIRECRAWL : fc-f0f2ea7d735242b2b50e4c58f25b1d34
+
+
+## ✅ DANH SÁCH API KEYS HỢP LỆ
+
+### 1. AbstractAPI Phone Intelligence
+- **Key:** `8aeb10df3695455fa91191c5527f5a3a`
+- **Endpoint:** `phoneintelligence.abstractapi.com/v1/`
+- **Status:** ✅ VALID
+- **Features:** Phone validation, carrier, location, risk analysis, breaches
+
+### 2. Veriphone.io
+- **Key:** `921F86FB651A47579B866E8D1F180F6B`
+- **Endpoint:** `api.veriphone.io/v2/verify`
+- **Status:** ✅ VALID
+- **Features:** Phone validation, carrier, location, phone type
+
+### 3. Cloudmersive
+- **Key:** `91827ab0-b797-430f-a0b2-2a2b18755dab`
+- **Endpoint:** `api.cloudmersive.com/validate/phonenumber/basic`
+- **Status:** ✅ VALID
+- **Features:** Phone validation, phone type, format conversion
+
+### 4. AbstractAPI Email
+- **Key:** `b25985e2a3de44ca8a10a1677d5863c7`
+- **Endpoint:** `emailreputation.abstractapi.com/v1/`
+- **Status:** ✅ VALID
+- **Features:** Email validation, reputation, breach detection
+
+
+
+
+### 5. AbstractAPI IP Intelligence
+- **Key:** `3f8b411c23ae45a7b65976a9fc9ba6b2`
+- **Endpoint:** `ip-intelligence.abstractapi.com/v1/`
+- **Status:** ✅ VALID
+- **Features:** IP security analysis, geolocation, ASN info
+
+
+roboflow luuq0051
+API : tLxVE1n9k26HSD0Z00Vs
+
+openrouter
+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
+
+git push -u origin main
+
+node dist/index.js
+npm install -g @modelcontextprotocol/server-*
+
+olla
+api 04be1976abf54ab1ba4556f67d62250a.mNYJJQB04a1zDJeQBZHBpKc2
+
+
+KIMI code		
+sk-kimi-MQAaHNcNA9sCaALJh83Mm5fbpEmUe9smU55tnW1YEXFB0306TM2GBSOySvnzZnLF
+
+MINIMAX-M2.1
+API : sk-api-v1-Rc2QBBM6oqzVNcxk9k9nzvwpfOUNuH9lr4uUasGirdmAzWrEZeq240FCRFbgagvplWEPM7kXo907piu-qvReSQrgaA1G0osrQBrkg0vo99t-_gKIgXhY
+export ANTHROPIC_BASE_URL=https://api.minimax.io/anthropic
+export ANTHROPIC_API_KEY=${YOUR_API_KEY}
+
+pip install anthropic

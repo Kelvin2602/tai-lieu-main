@@ -1,0 +1,42 @@
+{
+  "version": "1.0.0",
+  "organization": "Mobile Development Team",
+  "date": "February 2026",
+  "abstract": "Hướng dẫn workflow phát triển ứng dụng di động Flutter theo chuẩn công nghiệp. Bao gồm 6 giai đoạn từ phân tích yêu cầu, thiết kế kiến trúc, triển khai code, bảo mật, testing đến CI/CD và phát hành tự động. Tích hợp với các Skill: ProductManager, Architect, FlutterExpert, Security, DevOps.",
+  "workflow_stages": [
+    "Stage 1: Brainstorm yêu cầu & tương tác di động",
+    "Stage 2: Thiết kế kiến trúc đa nền tảng & UI",
+    "Stage 3: Triển khai code Flutter chất lượng cao",
+    "Stage 4: Bảo mật di động & bảo vệ dữ liệu nhạy cảm",
+    "Stage 5: Testing tự động & mô phỏng thiết bị thật",
+    "Stage 6: Cấu hình engineering & phát hành tự động"
+  ],
+  "related_skills": [
+    "01_ProductManager_Brainstorming",
+    "02_Architect_APIDesign",
+    "02_Designer_FrontendImplementation",
+    "03_Mobile_Flutter",
+    "07_Security_Specialist",
+    "05_DevOps_GitOps"
+  ],
+  "keywords": [
+    "flutter",
+    "mobile",
+    "ios",
+    "android",
+    "cross-platform",
+    "clean architecture",
+    "bloc",
+    "ci/cd",
+    "fastlane",
+    "mobile development workflow"
+  ],
+  "references": [
+    "https://flutter.dev",
+    "https://docs.flutter.dev/perf",
+    "https://bloclibrary.dev",
+    "https://fastlane.tools",
+    "https://material.io/design",
+    "https://developer.apple.com/design/human-interface-guidelines"
+  ]
+}

@@ -1,0 +1,8 @@
+C:\RECYCLER
+File listing showing hidden directories like:
+- bin.(645ff040-5081-101b-9f08-00aa002f954e)
+- S-1-5-21-1194...
+
+Included in the hidden directories were directories called _toolz, _pub, sp33d.
+Botherder stored stolen intellectual property in windows uninstall directories.
+Example: c:\WINDOWS\$NtUninstallKB867282$\spuninst\_tmp\__\ ... \_Pub

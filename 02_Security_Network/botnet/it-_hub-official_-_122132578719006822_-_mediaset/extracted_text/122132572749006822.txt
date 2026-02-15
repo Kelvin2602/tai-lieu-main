@@ -1,0 +1,12 @@
+SDBot Open Source Nature
+- Original author released source code.
+- Enabled collaboration and evolution.
+- Relies on insecure network shares and common passwords.
+
+SDBot Aliases
+- McAfee: IRC-SDBot
+- Symantec: Backdoor.Sdbot
+- Trend Micro: BKDR_SDBOT
+- Sophos: Troj/Sdbot
+- Kaspersky: Backdoor.IRC.Sdbot
+- CA: Win32.SDBot

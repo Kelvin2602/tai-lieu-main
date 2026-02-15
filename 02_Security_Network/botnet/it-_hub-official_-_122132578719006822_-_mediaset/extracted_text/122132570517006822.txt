@@ -1,0 +1,14 @@
+SDBot Spreading Exploits
+- NetBios (port 139)
+- NTPass (port 445)
+- DCom (ports 135, 1025)
+- MS RPC / Windows Messenger (1025)
+- ASN.1 (Kerberos, LSASS)
+- UPNP (5000)
+- WebDav (80)
+- MSSQL (1433)
+- DameWare (6129), Imail (143)
+- Cisco IOS HTTP auth (80)
+
+Backdoors Left by Trojan
+Botnets look for backdoors left by other malware.

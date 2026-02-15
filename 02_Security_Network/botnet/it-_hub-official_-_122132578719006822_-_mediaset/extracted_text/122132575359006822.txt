@@ -1,0 +1,7 @@
+Flow Analysis (Netflow)
+- Flow = Aggregated statistic (not packet payload).
+- 5-tuple: Src IP, Dst IP, Src Port, Dst Port, Protocol.
+- Sampled data (CPU efficient).
+- Tools:
+  - flow-tools (flow-dscan).
+  - Silktools (CERT/CMU).

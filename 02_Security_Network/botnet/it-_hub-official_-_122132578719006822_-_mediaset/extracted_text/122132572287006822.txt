@@ -1,0 +1,13 @@
+180Solutions Case
+- Terminated 500 affiliates for non-consensual installation.
+- One affiliate used a botnet for installation and DDoS.
+- FBI tracked down operators; 180Solutions filed civil suit.
+
+Data Mining
+- Enumerating users, admin accounts.
+- Harvesting SAM database, cached passwords.
+- Searching for Credit Card numbers, SSNs.
+- Keylogging for bank credentials.
+
+Reporting Results
+- Back to C&C or drop zone.

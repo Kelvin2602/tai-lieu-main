@@ -1,0 +1,6 @@
+Notes from the Underground...
+
+Default UserIDs Tried by RBot
+Administrator, Administrador, Administrateur, admin, root, etc.
+
+The passwords used with these attempts can vary.

@@ -1,0 +1,11 @@
+Botnet Detection Tools & Techniques
+- Abuse reporting (reactive).
+- Network monitoring (sniffers, flow analysis).
+- Confinement (firewalls).
+- IDS (Snort).
+- Darknets, honeypots.
+- Host forensics (logging).
+
+Abuse Emails
+- Complaints about spam, scanning, DoS from your network.
+- Contacts via WHOIS (ARIN, APNIC, etc.).

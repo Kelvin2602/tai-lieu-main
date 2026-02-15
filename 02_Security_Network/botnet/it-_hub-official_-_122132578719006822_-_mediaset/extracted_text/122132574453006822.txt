@@ -1,0 +1,6 @@
+Mitigating Layer 2 Attacks
+- Align ARP cache timeout (Router) with CAM table timeout (Switch).
+  - Cisco Router ARP timeout: 4 hours.
+  - Switch CAM timeout: 5 minutes (mismatch exploits flooding).
+- Use VLANs and ACLs to isolate infrastructure items (switches, APs).
+- Logging on switches.

@@ -1,0 +1,5 @@
+Heuristics & Integrity Detection
+- Integrity Detection: Change management, access control.
+- Heuristic Analysis: Rule-based scoring for unknown malware.
+- Trade-off: Aggressiveness vs False Positives (FPs).
+- Generic signatures: Detect families of viruses.

@@ -1,0 +1,9 @@
+Future of Botnets
+- Controllers work for pay (malicious usage).
+- Revenue maintenance drives innovation (new exploits, new C&C).
+- Predictions:
+  - Complicated network-based communication.
+  - New protocols (IM, P2P).
+  - Alternative control means (redundancy).
+  - Anti-detection focus.
+- DNS as robust C&C layer.

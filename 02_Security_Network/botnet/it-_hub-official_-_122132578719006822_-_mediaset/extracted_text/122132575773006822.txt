@@ -1,0 +1,5 @@
+Mytob Aliases & War with Sober
+- Aliases: W32.Mytob, Worm_Mytob, Net-Worm.Win32.Mytob.
+- Malware War (2005): Mytob vs Sober worm. Use of bots to disable rivals.
+- Infection: Email attachment.
+- Signs: %System%\wfdmgr.exe.

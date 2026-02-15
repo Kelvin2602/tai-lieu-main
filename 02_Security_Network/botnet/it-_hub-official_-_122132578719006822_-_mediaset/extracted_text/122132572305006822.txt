@@ -1,0 +1,4 @@
+Phishing Attack Taxonomy (FSTC)
+Figure 2.8: FSTC Phishing Attack Taxonomy.
+- Phases: Planning, Setup, Attack, Collection, Fraud, Post Attack.
+- Example: Target Firm -> Create Materials -> Email Vector -> Web Form -> Phisher Uses Credentials -> Shutdown.

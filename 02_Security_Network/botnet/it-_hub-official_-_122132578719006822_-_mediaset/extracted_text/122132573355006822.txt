@@ -1,0 +1,8 @@
+Antimalware Terminology
+- "Antivirus" implies only viruses, but modern suites detect worms, Trojans, bots, spyware, phishing.
+- "Antimalware" might be a better term.
+- Detection is sophisticated but rarely 100% for all malware types.
+
+Antivirus Signatures
+- "Search string" is technically more accurate.
+- "Signature" has other meanings (digital sigs).

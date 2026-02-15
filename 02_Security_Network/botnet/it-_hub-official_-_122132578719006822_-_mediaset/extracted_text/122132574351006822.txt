@@ -1,0 +1,8 @@
+Bot Family Summary (Chapter Review)
+- SDBot, RBot, Agobot, Spybot, Mytob (5+ years old).
+- Common propagation: Weak network shares.
+- RBot: Compression/Encryption.
+- Agobot: P2P propagation.
+- Spybot: Spyware features.
+- Mytob: Hybrid worm/bot.
+- Evolution from "carpet bombing" to "precision stealth" for profit.

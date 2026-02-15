@@ -1,0 +1,6 @@
+Log Parser Example
+- Query `LogonFailures.sql`.
+- Selects TimeGenerated, User, Targeted_Computer, Attacking_Workstation.
+- From .evt logs.
+- EventType=16 (Failure Audit?), EventCategory=2 (Logon/Logoff).
+- Output shows distributed attack from ATTACKER1 and ATTACKER2.

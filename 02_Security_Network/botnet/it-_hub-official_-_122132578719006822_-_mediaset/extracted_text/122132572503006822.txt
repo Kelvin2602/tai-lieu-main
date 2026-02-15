@@ -1,0 +1,10 @@
+Agobot Aliases
+- McAfee: W32/Gaobot.worm
+- Symantec: W32.HLLW.Gaobot.gen
+- Trend Micro: Worm_Agobot.Gen
+- Kaspersky: Backdoor.Agobot.gen
+- CA: Win32/Agobot Family
+- Sophos: W32/Agobot-Fam
+
+Naming Confusion
+- Polybot (polymorphic Agobot) vs Agobot.

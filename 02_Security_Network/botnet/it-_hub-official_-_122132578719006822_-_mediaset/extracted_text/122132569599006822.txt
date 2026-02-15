@@ -1,0 +1,10 @@
+Table of Contents (continued)
+
+Chapter 12 Responding to Botnets
+- Introduction
+- Why Do We Have This Problem? (Money, Spam, Phishing)
+- What Is To Be Done? (Effective Practices, Fighting Back, Law Enforcement)
+- A Call to Arms
+
+Appendix A: FSTC Phishing Solutions Categories
+Index

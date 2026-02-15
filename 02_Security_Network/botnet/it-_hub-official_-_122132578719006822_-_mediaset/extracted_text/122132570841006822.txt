@@ -1,0 +1,7 @@
+DirectRevenue EULA (continued)
+k. "X" button on pop-up ads will not appear off-screen.
+l. Ads will include "?" button or text link with info about software and uninstallation.
+m. No adult content unless user viewing adult sites.
+n. Listed in Add/Remove Programs.
+o. Will not modify security settings.
+p. Will not reinstall once uninstalled.

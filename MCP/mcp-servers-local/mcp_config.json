@@ -1,0 +1,47 @@
+{
+  "mcpServers": {
+    "calculator": {
+      "command": "python",
+      "args": ["d:/tai-lieu-main/MCP/mcp-calculator/calculator.py"],
+      "disabled": false
+    },
+    "reminder": {
+      "command": "python",
+      "args": ["d:/tai-lieu-main/MCP/mcp-calculator/reminder_service.py"],
+      "disabled": false
+    },
+    "smart-home": {
+      "command": "python",
+      "args": ["d:/tai-lieu-main/MCP/mcp-calculator/smart_home.py"],
+      "disabled": false
+    },
+    "weather": {
+      "command": "python",
+      "args": ["d:/tai-lieu-main/MCP/mcp-calculator/weather_service.py"],
+      "disabled": false
+    },
+    "context7": {
+      "command": "node",
+      "args": ["d:/tai-lieu-main/MCP/mcp-servers-local/context7-mcp/dist/index.js"],
+      "disabled": false
+    },
+    "pdf-reader": {
+      "command": "node",
+      "args": ["d:/tai-lieu-main/MCP/mcp-servers-local/pdf-reader-mcp/dist/index.js"],
+      "disabled": false
+    },
+    "playwright": {
+      "command": "node",
+      "args": ["d:/tai-lieu-main/MCP/mcp-servers-local/playwright-mcp-server/dist/index.js"],
+      "disabled": false
+    },
+    "supabase": {
+      "command": "node",
+      "args": ["d:/tai-lieu-main/MCP/supabase-mcp/packages/mcp-server-supabase/dist/transports/stdio.js"],
+      "disabled": false,
+      "env": {
+        "SUPABASE_ACCESS_TOKEN": "your-token-here"
+      }
+    }
+  }
+}

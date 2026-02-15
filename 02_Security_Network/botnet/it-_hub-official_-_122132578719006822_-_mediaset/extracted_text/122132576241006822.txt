@@ -1,0 +1,4 @@
+Author Bios
+- Tony (CISSP, ISSAP, MCSE, MVP): Windows Security expert. About.com guide.
+- Michael Cross (MCSE, Forensic Analyst): Niagara Regional Police Service.
+- Gadi Evron: Security Evangelist, Botnet expert. Operations Manager for ZERT (Zeroday Emergency Response Team).

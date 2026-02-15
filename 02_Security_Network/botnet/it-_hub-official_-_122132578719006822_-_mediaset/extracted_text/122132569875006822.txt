@@ -1,0 +1,7 @@
+SubSeven Trojan/Bot
+Released June 1999 (v2.1).
+Permitted a SubSeven server to be remotely controlled by a bot via IRC.
+
+GT Bot
+Global Threat (GT) Bot, based on mIRC.
+Capabilities: Port Scanning, Flooding (DDoS), Cloning.

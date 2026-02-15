@@ -1,0 +1,5 @@
+Signatures vs Search Strings
+- "Signature" in AV is a misnomer (implies uniqueness like a fingerprint).
+- Better term: Search String or Pattern.
+- Polymorphic viruses make static strings useless.
+- AV uses complex algo, regex, decryption, emulation/sandboxing.

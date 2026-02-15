@@ -1,0 +1,9 @@
+Honeypots & Forensics
+- Shadowserver, REN-ISAC, Spamhaus, Dshield.
+- Bleedingthreats rules.
+- Honeypot: Decoy system to collect intel.
+- Low-interaction (Honeyd) vs High-interaction.
+- Honeywall: Layer 2 bridging device for monitoring.
+
+Digital Forensics
+- Scientific methodology for evidence recovery.

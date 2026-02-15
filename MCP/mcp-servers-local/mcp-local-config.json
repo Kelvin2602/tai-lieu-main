@@ -1,0 +1,60 @@
+{
+  "mcpServers": {
+    "playwright-local": {
+      "command": "node",
+      "args": [
+        "D:\\tai-lieu-main\\MCP\\mcp-servers-local\\playwright-mcp-server\\dist\\index.js"
+      ],
+      "env": {}
+    },
+    "context7-local": {
+      "command": "node",
+      "args": [
+        "D:\\tai-lieu-main\\MCP\\mcp-servers-local\\context7-mcp\\dist\\index.js",
+        "--transport",
+        "stdio"
+      ],
+      "env": {}
+    },
+    "pdf-reader-local": {
+      "command": "node",
+      "args": [
+        "D:\\tai-lieu-main\\MCP\\mcp-servers-local\\pdf-reader-mcp\\dist\\index.js"
+      ],
+      "env": {}
+    },
+    "sequential-thinking-local": {
+      "command": "node",
+      "args": [
+        "D:\\tai-lieu-main\\MCP\\mcp-servers-local\\modelcontextprotocol-servers\\src\\sequentialthinking\\dist\\index.js"
+      ],
+      "env": {}
+    },
+    "memory-local": {
+      "command": "node",
+      "args": [
+        "D:\\tai-lieu-main\\MCP\\mcp-servers-local\\modelcontextprotocol-servers\\src\\memory\\dist\\index.js"
+      ],
+      "env": {}
+    },
+    "fetch-local": {
+      "command": "python",
+      "args": [
+        "-m",
+        "mcp_server_fetch"
+      ],
+      "env": {
+        "PYTHONIOENCODING": "utf-8"
+      }
+    },
+    "excel-local": {
+      "command": "node",
+      "args": [
+        "D:\\tai-lieu-main\\MCP\\mcp-servers-local\\excel-mcp-server\\dist\\launcher.js"
+      ],
+      "env": {
+        "EXCEL_MCP_PAGING_CELLS_LIMIT": "4000"
+      }
+    }
+  }
+}

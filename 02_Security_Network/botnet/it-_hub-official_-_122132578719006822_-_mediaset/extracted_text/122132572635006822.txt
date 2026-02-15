@@ -1,0 +1,13 @@
+RBot Aliases
+- McAfee: W32/SDBot.worm.gen.g (Confusion with SDBot).
+- Symantec: W32.Spybot.worm (Confusion with Spybot).
+- Trend Micro: Worm_RBot.
+- Kaspersky: Backdoor.RBot.gen.
+
+Infection
+- Network shares (weak passwords).
+- Software vulnerabilities.
+- Backdoors left by other malware.
+
+Signs of Compromise
+- System Folder: Copies self to %System% (wuamgrd.exe).

@@ -1,0 +1,7 @@
+Snort Overview
+- Martin Roesch (1998).
+- Lightweight NIDS.
+- Cross-platform.
+- Sourcefire (Commercial version).
+- 3 million downloads.
+- Rule-based detection.

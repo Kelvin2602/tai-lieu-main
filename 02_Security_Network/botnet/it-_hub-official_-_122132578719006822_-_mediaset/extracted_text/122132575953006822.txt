@@ -1,0 +1,7 @@
+Agobot P2P & Signs of Compromise
+- P2P Propagation: Kazaa, Grokster, BearShare.
+- Phatbot variant used WASTE (AOL P2P protocol, encrypted).
+- Termination of AV processes.
+- Signs of Compromise:
+  - System Folder: syschk.exe, svchost.exe (fake), sysmgr.exe.
+  - Registry entries.

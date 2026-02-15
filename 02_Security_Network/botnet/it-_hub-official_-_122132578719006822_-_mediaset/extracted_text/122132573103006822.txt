@@ -1,0 +1,6 @@
+Alternative Control Channels (continued)
+- Fallback mechanisms if main C&C is down.
+- Hard-coded backdoors (listening ports).
+- "Jump" to new C&C server.
+- Web-Based C&C: Uses HTTP.
+  - Echo-based (poll) and Command-based (push/pull).

@@ -1,0 +1,11 @@
+Polybot
+- March 2004, derived from Agobot.
+- Polymorphism: morphs code on every infection (envelope encryption).
+
+Mytob
+- Feb 2005.
+- Hybrid: MyDoom email + SDBot IRC C&C.
+
+New Capabilities:
+- GpCoder: Encrypts files, demands ransom.
+- Serv-U: FTP server on botclients.

@@ -1,0 +1,4 @@
+Default Passwords Tried
+List of passwords:
+123, 1234, 12345, ..., admin, administrator, god, guest, password, root, system, test, etc.
+Source: CA security advisor.

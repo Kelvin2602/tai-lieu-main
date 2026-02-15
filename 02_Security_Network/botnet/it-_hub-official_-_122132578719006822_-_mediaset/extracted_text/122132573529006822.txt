@@ -1,0 +1,5 @@
+Risks of IRC C&C
+- Eavesdropping: Defenders can join channel and see commands.
+- Hijacking: Defenders (or rivals) can issue commands (e.g., download update to kill bot).
+- Historical context: Trojans (1996-1997) phoned home to IRC.
+- Move towards obfuscation and alternative protocols.

@@ -1,0 +1,5 @@
+DNS TTL and Dynamic DNS
+- TTL (Time To Live): "Interesting knob for good and bad guys" (Paul Vixie).
+- Low TTL allows rapid IP changing (Fast Flux).
+- Dynamic DNS (DynDNS): Free subdomains pointing to dynamic IPs.
+- Used by botnets for disposable C&C domains.

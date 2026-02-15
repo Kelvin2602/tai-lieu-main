@@ -1,0 +1,4 @@
+Network Infrastructure Tools
+- Sniffers, Port Mirroring (SPAN).
+- SpamCop, LURHQ (SecureWorks).
+- Figure 5.1: Sniffer placement (out-of-line).

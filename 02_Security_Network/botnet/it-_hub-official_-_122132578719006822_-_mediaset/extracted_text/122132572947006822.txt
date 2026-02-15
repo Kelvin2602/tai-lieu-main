@@ -1,0 +1,7 @@
+Famous Botnet Authors/Operators
+- Farid Essebar (Zotob worm) - Morocco.
+- Christopher Maxwell ("donttrip") - Vacaville, CA.
+  - 1 million clients.
+  - Infected Northwest Hospital (Seattle), disrupted patient care.
+  - 37 months in prison, $252k restitution.
+- Jeffrey Parson (Blaster variant) - 48,000 computers.

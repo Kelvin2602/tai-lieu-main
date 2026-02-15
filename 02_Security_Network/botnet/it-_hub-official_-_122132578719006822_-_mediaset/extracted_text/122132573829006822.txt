@@ -1,0 +1,7 @@
+Remote Admin Tools & Drop Zones
+- RATs: Terminal Services, PCAnywhere, VNC used as backdoors.
+- Drop Zones (FTP):
+  - Phishing/Banking Trojans (Dumador, Haxdoor).
+  - Keyloggers.
+  - Man-in-the-Middle (MITM) / Man-in-the-Inside.
+  - Form grabbing.

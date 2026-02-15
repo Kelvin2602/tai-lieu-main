@@ -1,0 +1,5 @@
+Network Monitoring Architectures
+- Probes sending data to central monitoring system (RMON, Netflow).
+- Router/Switch as probe (SNMP, Netflow).
+- MRTG / Cricket / RRDTOOL for visualization.
+- Collection of per-port statistics.

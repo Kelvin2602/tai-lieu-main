@@ -1,0 +1,7 @@
+Agobot Modules
+1. Opens remote access backdoor.
+2. Shuts down antivirus.
+3. Prevents access to AV web sites.
+
+Uses IRC for C&C, spreads via P2P (Kazaa, Grokster).
+Capabilities: DDoS, CD Key stealing, Rootkit technology.

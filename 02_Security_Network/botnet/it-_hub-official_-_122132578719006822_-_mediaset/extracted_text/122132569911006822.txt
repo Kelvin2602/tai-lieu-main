@@ -1,0 +1,5 @@
+Mytob Email Harvesting
+
+Mytob uses its own SMTP engine. Guesses mail servers (mx, mail, smtp...).
+Targeted file extensions: wab, adb, tbb, dbx, asp, php, htm, txt, etc.
+Eliminates domains: .gov, .mil, abuse, avp, symantec, etc.

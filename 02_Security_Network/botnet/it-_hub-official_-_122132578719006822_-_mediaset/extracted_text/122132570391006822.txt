@@ -1,0 +1,13 @@
+The Botnet Life Cycle
+Figure 2.1 illustrates the common life cycle.
+
+Exploitation
+- User tricked into running malicious code.
+- Attacks against unpatched vulnerabilities.
+- Backdoors left by worms/Trojans.
+- Password guessing.
+
+Malicious Code
+- Phishing emails installing background code.
+- Enticing Web sites ("Dancing Monkeys!").
+- Email attachments.

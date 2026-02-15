@@ -1,0 +1,6 @@
+Spybot Registry Modifs (continued)
+- Run, RunServices, RunOnce, OLE keys.
+- Value: "EnableDCOM" = "Y" (or "N").
+- Value: "restrictanonymous" = "1".
+- Value: "Start" = "4" (Disable service).
+- Services modified: SharedAccess, wscsvc, TlntSvr.

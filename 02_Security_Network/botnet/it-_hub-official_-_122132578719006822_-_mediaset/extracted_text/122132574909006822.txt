@@ -1,0 +1,6 @@
+Botnet Resilience (lsass.exploited.org)
+- DNS rendezvous.
+- Dynamic DNS (DynDNS) to rebind name to new IP.
+- "Botnet client can become a botnet server at any time."
+- Case: `lsass.exploited.org` (Symantec W32.Spybot.won).
+- Dig command for reverse lookup.

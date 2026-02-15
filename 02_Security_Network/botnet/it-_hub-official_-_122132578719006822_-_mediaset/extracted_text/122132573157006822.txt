@@ -1,0 +1,8 @@
+Botnet Payloads (DDoS)
+- Commands: syn, udp, ping.
+- Modular design allows payload updates.
+
+Recruiting
+- Scanning for ports 139/445.
+- Tools: smbscan.exe, ntscan.exe, scan500.exe.
+- `net view /DOMAIN`.

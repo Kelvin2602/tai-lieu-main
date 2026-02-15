@@ -1,0 +1,9 @@
+Sniffers & Filtering
+- Narrowing the filter (signal-to-noise ratio).
+- Example: `tcpdump -X -s 1500 host 192.168.1.1 and tcp port 6668`.
+- Snort as a sniffer.
+- ngrep (ASCII string oriented sniffer).
+
+SNMP & Netflow
+- Measure network utilization.
+- Detecting DoS, scanning, spam outbursts.

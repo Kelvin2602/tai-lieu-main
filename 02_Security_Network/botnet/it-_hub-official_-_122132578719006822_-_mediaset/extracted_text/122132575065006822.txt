@@ -1,0 +1,7 @@
+Malware in the Wild (WildList)
+- WildList.org tracks "In the Wild" (ItW) malware.
+- Reported by 80+ AV professionals.
+- Monthly list (often delayed).
+- Used by AV testing orgs (Virus Bulletin, ICSA Labs).
+- Sept 2006: 400 variants of W32/Sdbot alone.
+- Primary List vs Secondary List (B-list malware).

@@ -1,0 +1,12 @@
+RBot Vulnerabilities List (Table continued)
+- SQL Server and MSDE 2000 (UDP 1434) - MS02-061.
+- WebDav (TCP 80) - MS03-007.
+- UPnP NOTIFY - MS01-059.
+- Workstation Service (TCP 445) - MS03-049.
+- SSL Library DoS - MS04-011.
+- Plug and Play - MS05-039.
+- Server Service - MS06-040.
+
+Mytob
+- Hybrid of MyDoom (mass-mailing) and SDBot.
+- Aliases vary by vendor.

@@ -1,0 +1,15 @@
+FAQ (continued)
+Q: Common spreading methods?
+A: Target insecure network shares, password guessing.
+
+Q: How do bots ensure persistence?
+A: Registry modifications (Run keys).
+
+Q: Unique propagation of Agobot?
+A: P2P networking.
+
+Q: Bot family using encryption (packing)?
+A: RBot (Morphine, UPX, etc.).
+
+Q: Unique about Spybot?
+A: Based on SDBot but adds spyware/keylogging capabilities.

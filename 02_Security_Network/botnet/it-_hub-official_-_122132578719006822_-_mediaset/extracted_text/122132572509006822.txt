@@ -1,0 +1,9 @@
+RBot Exploit Targets (continued)
+- WINS replication, RealSystem Server, MSSQL 2000 Resolution service.
+
+Exploiting Malware Backdoors
+- Bagle (2745), Mydoom (3127), OptixPro (3410), NetDevil (903), Kuang (17300), SubSeven (27347).
+
+Agobot (Gaobot/Phatbot)
+- Modular functionality.
+- Three stages: Backdoor/Control, Kill AV processes, Block access.

@@ -1,0 +1,8 @@
+Table of Contents (continued)
+
+Chapter 3 Alternative Botnet C&Cs
+- DNS and C&C Technology
+- Web-Based C&C Servers
+- P2P Botnets
+- Instant Messaging C&Cs
+- Advanced DNS-Based Botnets (Dynamic DNS, Fastflux)

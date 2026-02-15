@@ -1,0 +1,8 @@
+SDBot Signs of Compromise
+- Remote Access Trojan (RAT) component connects to IRC.
+- Botherder collects info (OS, IP).
+- Executes commands (DDoS, download files).
+
+System Folder
+- SDBot places copy in System folder (C:\Windows\System32).
+- Known filenames: Aim95.exe, CMagesta.exe, Cmd32.exe, Cnfglr.exe, Explorer.exe, service.exe, sock32.exe, spooler.exe, svchost.exe (fake), Sys32.exe, etc.

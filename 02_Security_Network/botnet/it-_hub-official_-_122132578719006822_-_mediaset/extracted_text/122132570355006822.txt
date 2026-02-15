@@ -1,0 +1,10 @@
+Botnet Economics
+- Conduct phishing campaigns.
+- Scam adware companies.
+- Install adware for pay.
+- Clicks4Hire campaigns.
+- Store/distribute stolen IP.
+- Ties between botnet/spam/phishing and organized crime.
+- Spammers making $750,000/month.
+- Adware/spyware marketplace.
+- "Clicks for Hire" simulation of random customers.

@@ -1,0 +1,8 @@
+Click Fraud & Ransomware Profits
+- Click fraud: Bots clicking Google Adsense banners.
+- Ransomware (TechDirt article):
+  - Decryption rate $50 - $100.
+  - Zippo ransomware ($300).
+- Password cracking (Sophos):
+  - Arhiveus password: "mf2lro8sw03ufvnsq034jfowr18f3cszc20vmw".
+  - Ransom A Trojan: $10.99 via Western Union.

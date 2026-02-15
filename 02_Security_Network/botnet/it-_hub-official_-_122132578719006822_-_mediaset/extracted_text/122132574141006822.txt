@@ -1,0 +1,5 @@
+Firewall Egress Filtering
+- Block port 25 (SMTP) for unauthorized hosts.
+- Block 1433/1434 (SQL Slammer).
+- "Access all, deny a few" is bad practice.
+- Outbound logging reveals infected hosts.

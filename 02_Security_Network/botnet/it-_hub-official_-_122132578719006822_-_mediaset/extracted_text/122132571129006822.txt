@@ -1,0 +1,8 @@
+SDBot Backdoors
+- Optix (3140), Bagle (2745), Kuang (17300), Mydoom (3127), NetDevil (903), SubSeven (27347).
+
+Password Guessing
+- Manual spreading via remote control.
+- Automatic spreading via ports 139 and 445 (IPC$).
+- Enumerates user accounts.
+- Uses default password list if enumeration fails.

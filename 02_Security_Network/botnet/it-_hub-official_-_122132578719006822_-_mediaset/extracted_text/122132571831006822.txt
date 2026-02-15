@@ -1,0 +1,6 @@
+Direct Revenue EULA
+- Users provided with "I have read and accept" or "I do not accept".
+- "Accept" not default.
+- Disclosure of ads, data collection (web sites visited), and software installation.
+- No ActiveX or no-consent installs.
+- No use of security exploits.

@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Thiết lập cấu trúc dự án cơ bản",
+        "description": "Tạo các thư mục và file cấu hình ban đầu theo yêu cầu trong objective.md.",
+        "completed": false
+    },
+    {
+        "id": 2,
+        "title": "Phân tích yêu cầu và tạo tài liệu thiết kế",
+        "description": "Đọc objective.md và tạo file details/design.md mô tả kiến trúc chi tiết.",
+        "completed": false
+    },
+    {
+        "id": 3,
+        "title": "Triển khai Module Core",
+        "description": "Viết mã nguồn cho module lõi của hệ thống.",
+        "completed": false
+    },
+    {
+        "id": 4,
+        "title": "Kiểm thử (Testing)",
+        "description": "Tạo unit test cho các module đã viết và chạy thử.",
+        "completed": false
+    }
+]

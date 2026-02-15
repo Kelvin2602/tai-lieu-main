@@ -1,0 +1,6 @@
+Agobot Propagation Details
+- Vulnerability Scanning: Microsoft Windows, SQL Server, CPanel, DameWare.
+- Open Shares: NetBEUI enumeration, dictionary attack (c$, admin$).
+- P2P Propagation:
+  - Fake filenames to entice download.
+  - Set A (e.g., "ADSL Playfix", "CD Key Generator") + Set B (Celebrity names: "Anna Kournikova", "Amanda Peet").

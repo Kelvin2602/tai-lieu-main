@@ -1,0 +1,4 @@
+Spybot Registry Modifications
+- Prevent Windows XP SP2 install: "DoNotAllowXPSP2" = "1" in HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate.
+- Disable Security Center: "UpdatesDisableNotify" = "1", "AntiVirusDisableNotify" = "1", etc.
+- Disable Windows Firewall: "EnableFirewall" = "0".

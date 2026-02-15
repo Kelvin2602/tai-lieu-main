@@ -1,0 +1,7 @@
+Cricket Graphs: DoS Attack Analysis
+- Figure 5.2: Router CPU utilization.
+  - Shows 100% CPU usage for 12+ hours due to DoS.
+  - Impact: Can't login, routing failure, SNMP failure.
+- Figure 5.3: Switch port graph.
+  - Shows bytes in/out.
+  - Detects outbound DoS from a hacked host.

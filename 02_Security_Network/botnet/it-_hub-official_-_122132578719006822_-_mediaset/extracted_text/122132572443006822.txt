@@ -1,0 +1,6 @@
+FAQ: IRC C&C and Ethics
+Q: How do botnets use IRC?
+A: Subscribe to specific channels. Channel topics contain commands. Command interpreter executes them.
+
+Q: Why do botherders do this?
+A: Money and power. Lack of ethics education. Underfunded security. Culture of "functionality first, security later".

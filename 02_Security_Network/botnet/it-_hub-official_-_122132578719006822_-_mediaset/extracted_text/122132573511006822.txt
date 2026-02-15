@@ -1,0 +1,6 @@
+DNS and C&C Evolution
+- Multiple IRC servers (linked) for redundancy.
+- Hard-coded IP problem: If server IP changes, bot is lost.
+- Solution: DNS (Domain Names).
+- Bots connect to a domain (e.g., botnet.example.com) rather than IP.
+- Allows changing C&C IP without updating bots.

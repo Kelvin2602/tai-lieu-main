@@ -1,0 +1,10 @@
+Botnet Impact Case Study (McAfee)
+- 70,000-member botnet by Russian botherders.
+- White paper: "Killing Botnets: A view from the trenches".
+- Reclaiming a Central American country's telecom infrastructure.
+- 6.9 million attacks in first week, 95% IRC related.
+- Network outages, customer lawsuits, ATM outages.
+
+Microsoft MSRT Data
+- 16 million instances removed.
+- Reactive measure only.

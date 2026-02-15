@@ -1,0 +1,5 @@
+Snort Phatbot Signature (continued)
+- Explains `dsize`, `classtype`, `reference`, `sid`.
+- P2P Control Connection signature (content "Wonk-", "#waste").
+- Netsky.P signature example.
+- Checks external traffic ($EXTERNAL_NET) to internal ($HOME_NET).

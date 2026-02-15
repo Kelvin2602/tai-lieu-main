@@ -1,0 +1,12 @@
+Spybot Infection Clues
+
+System Folder
+Spybot places a copy of itself in %System% (e.g. C:\Windows\System32).
+Common filenames:
+- Bling.exe
+- Netwmon.exe
+- Wuamgrd.exe
+
+Registry Entries
+- Value: "dir0" = "012345:[CONFIGURABLE PATH]" in HKEY_CURRENT_USER\SOFTWARE\KAZAA\LocalContent
+- Value: "Microsoft Update" = "wuamgrd.exe" in HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run

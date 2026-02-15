@@ -1,0 +1,4 @@
+Click Fraud & Botnet Sequences
+- Botnets used for Click Fraud (Google Adsense).
+- Case: Bagle -> Glieder.AK -> Fantibag -> Mitglieder.CT -> Password Stealer.
+- Sequence of droppers/downloaders to establish full control and disable defenses.

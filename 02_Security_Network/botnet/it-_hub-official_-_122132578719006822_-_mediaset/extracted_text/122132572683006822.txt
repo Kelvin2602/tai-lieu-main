@@ -1,0 +1,5 @@
+Log Parser Output (Table continued)
+- Shows TimeGenerated, User (e.g., ATTACKER2\Administrator), Targeted_Computer (VICTIM), Attacking_Workstation.
+- Evidence of brute-force password guessing (repeated attempts per second).
+- Log Parser Toolkit book reference.
+- Help desk ticket info: Computer name, IP address.

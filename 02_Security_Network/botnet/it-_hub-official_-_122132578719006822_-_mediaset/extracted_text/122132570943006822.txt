@@ -1,0 +1,15 @@
+Agobot Target Games
+List of games targeted (likely for CD keys):
+- Battlefield 1942
+- Call of Duty
+- Command and Conquer
+- Counter-Strike
+- FIFA 2002/2003
+- Half-Life
+- Medal of Honor
+- Need for Speed
+- Neverwinter Nights
+- Unreal Tournament 2003/2004
+
+Unexpected Traffic
+Agobot opens a backdoor.

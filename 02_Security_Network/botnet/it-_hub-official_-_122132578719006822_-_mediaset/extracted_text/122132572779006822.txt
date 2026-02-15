@@ -1,0 +1,6 @@
+Botnet Life Cycle: Rallying
+- "Rallying": Botclient calls home to C&C (IRC).
+- Login may use encryption/authentication.
+- Updates: Bot requests updates (exploits, new C&C list).
+- Securing the client: Removes AV tools.
+- RBot batch file example: `net stop "Symantec Antivirus"`, etc.

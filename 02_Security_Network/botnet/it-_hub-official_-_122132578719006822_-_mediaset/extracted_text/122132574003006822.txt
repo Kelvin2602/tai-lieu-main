@@ -1,0 +1,9 @@
+SDBot Propagation
+- Shares: ACCESS, C$, D$, ADMIN$, IPC$.
+- Weak passwords (abc123, password).
+- MSSQL weak passwords.
+
+RBot
+- Complex, pervasive.
+- Compression/Packing: UPX, Morphine, FSG, etc.
+- Capabilities: DDoS, SOCKS proxy, Keylogging, Webcam capture.

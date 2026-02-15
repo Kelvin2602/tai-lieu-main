@@ -1,0 +1,6 @@
+Log Analysis
+- Determining attack vector, time, and compromised user.
+- Failed logins = password guessing.
+- Successful login after failures = break-in time.
+- Figure 5.6: Event Properties (Successful Logon).
+- Using Log Parser (Microsoft tool) to query event logs.

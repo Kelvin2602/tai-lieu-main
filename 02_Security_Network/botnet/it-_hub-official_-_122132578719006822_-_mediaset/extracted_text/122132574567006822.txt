@@ -1,0 +1,7 @@
+Trojan Trust & Tripwire Config
+- Ken Thompson: "You can't trust code that you did not totally create yourself."
+- Tripwire Configuration:
+  - Policy files signed with site key.
+  - Database signed with local key.
+  - Check mode compares filesystem to database.
+  - Ignore flags for dynamic files (logs).

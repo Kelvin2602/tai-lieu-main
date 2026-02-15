@@ -1,0 +1,275 @@
+================================================================================
+           HƯỚNG DẪN SỬ DỤNG HỆ THỐNG PHÂN LOẠI TÀI LIỆU
+                       tai-lieu-main (04/11/2025)
+================================================================================
+
+🎉 CHÚC MỪNG! Hệ thống phân loại tài liệu đã được hoàn tất!
+
+================================================================================
+📖 BẮT ĐẦU NGAY - NHỮNG TỆP MUST READ FIRST
+================================================================================
+
+Theo thứ tự ưu tiên:
+
+1️⃣  README.md (14KB)
+    → Giới thiệu tổng quan hệ thống
+    → Learning paths cho các lĩnh vực khác nhau
+    → Checklists bắt đầu nhanh
+    ⏱️ Thời gian đọc: 10 phút
+
+2️⃣  DANH_MUC_PHAN_LOAI.md (7.2KB)
+    → Phân loại 11 thư mục chính
+    → Tóm tắt nội dung của mỗi thư mục
+    → Khuyến nghị sử dụng
+    ⏱️ Thời gian đọc: 10 phút
+
+3️⃣  TIM_KIEM_NHANH.md (13KB)
+    → Hướng dẫn tìm kiếm theo chủ đề
+    → Tìm kiếm theo nhu cầu cá nhân
+    → Learning paths chi tiết
+    ⏱️ Thời gian đọc: 15 phút
+
+4️⃣  INDEX_CHI_TIET.txt (9.8KB)
+    → Danh sách đầy đủ tất cả file
+    → Mô tả chi tiết từng thư mục
+    → Thống kê và phân tích
+    ⏱️ Thời gian đọc: 20 phút
+
+================================================================================
+🗂️ CẤU TRÚC CƠ BẢN
+================================================================================
+
+tai-lieu-main/
+├── 📄 README.md ⭐ START HERE!
+├── 📄 DANH_MUC_PHAN_LOAI.md
+├── 📄 TIM_KIEM_NHANH.md
+├── 📄 INDEX_CHI_TIET.txt
+├── 📄 HUONG_DAN_SU_DUNG.txt (file này)
+│
+├── 📁 01_AI_MachineLearning/
+├── 📁 02_Security_Network/
+├── 📁 03_Cloud_Infrastructure/
+├── 📁 04_Guides_Tutorials/
+├── 📁 05_DataScience/
+├── 📁 06_OSINT_Tools/
+├── 📁 07_Development_Hacking/
+├── 📁 08_Skills_Resources/
+├── 📁 09_AIImageGen/
+├── 📁 10_ChatGPT_Prompts/
+└── 📁 02.11.2025/
+
+================================================================================
+📊 THỐNG KÊ NHANH
+================================================================================
+
+Tài liệu tổ chức đã tạo:
+  • 5 tệp hướng dẫn chính
+  • Tổng cộng: ~1.600 dòng nội dung
+  • Dung lượng: ~50KB
+
+Tài liệu gốc:
+  • 368 file tài liệu
+  • 34.932 dòng nội dung
+  • ~2.5GB+ dung lượng
+  • 11 thư mục chính
+
+================================================================================
+🎯 BA CÁCH SỬ DỤNG HỆ THỐNG
+================================================================================
+
+CÁCH 1: TÌM KIẾM THEO MỤC ĐÍCH
+  Bạn muốn gì?
+  → Mở README.md
+  → Xem phần "Bạn là..."
+  → Theo dõi lộ trình được đề xuất
+
+CÁCH 2: TÌM KIẾM THEO CHỦ ĐỀ
+  Bạn quan tâm chủ đề nào?
+  → Mở DANH_MUC_PHAN_LOAI.md
+  → Tìm chủ đề của bạn
+  → Đi tới thư mục tương ứng
+
+CÁCH 3: TÌM KIẾM THEO TỪ KHÓA
+  Bạn cần tìm file cụ thể?
+  → Mở TIM_KIEM_NHANH.md
+  → Dùng phần "Tìm kiếm nâng cao"
+  → Dùng lệnh grep để tìm
+
+================================================================================
+🚀 5 BƯỚC BẮT ĐẦU NHANH NHẤT
+================================================================================
+
+BƯỚC 1 (5 phút):
+  [ ] Mở README.md
+  [ ] Đọc phần "BẮT ĐẦU NHANH"
+  [ ] Chọn chủ đề của bạn
+
+BƯỚC 2 (10 phút):
+  [ ] Mở DANH_MUC_PHAN_LOAI.md
+  [ ] Tìm thư mục chủ đề của bạn
+  [ ] Đọc mô tả nó
+
+BƯỚC 3 (10 phút):
+  [ ] Mở thư mục chủ đề
+  [ ] Tìm file "00_READ_ME_FIRST" hoặc file đầu tiên
+  [ ] Bắt đầu đọc
+
+BƯỚC 4 (30 phút):
+  [ ] Đọc 2-3 file quan trọng
+  [ ] Ghi chú lại kiến thức chính
+  [ ] Tìm file liên quan tiếp theo
+
+BƯỚC 5 (ongoing):
+  [ ] Thực hành theo hướng dẫn
+  [ ] Nâng cao kỹ năng
+  [ ] Quay lại tìm tài liệu liên quan
+
+================================================================================
+⚠️ QUAN TRỌNG - NHỮNG ĐIỀU CẦN BIẾT
+================================================================================
+
+1. MỘT SỐ TÀI LIỆU CÓ NGÔN NGỮ TRUNG QUỐC:
+   - File của các tác giả Trung Quốc có tên tiếng Trung
+   - Bạn có thể dùng Google Translate hoặc công cụ nào để dịch
+   - Nội dung vẫn có giá trị học tập
+
+2. BẢO MẬT VÀ HACKING (⚠️):
+   - Một số thư mục chứa nội dung nhạy cảm về bảo mật/hacking
+   - ✅ CHỈ SỬ DỤNG cho mục đích giáo dục authorized testing
+   - ❌ KHÔNG ĐƯỢC PHÉP dùng để tấn công hệ thống không được phép
+   - Bạn chịu trách nhiệm pháp lý hoàn toàn!
+
+3. DUNG LƯỢNG LỚN:
+   - Tổng dung lượng khoảng 2.5GB+
+   - Một số thư mục có file rất lớn (video, datasets)
+   - Có thể mất thời gian tải hoặc xem các file to
+
+4. FORMAT ĐA DẠNG:
+   - Markdown (.md) - file text có định dạng
+   - Excel (.xlsx) - bảng dữ liệu
+   - PDF - ebook và tài liệu định dạng
+   - Bạn có thể cần các ứng dụng phù hợp để mở
+
+================================================================================
+🔧 LỆNH TỰ HỮU HỮUÍCH
+================================================================================
+
+Tìm file theo tên:
+  find . -name "*keyword*" -type f
+
+Tìm file theo loại:
+  find . -name "*.md" -type f
+
+Tìm nội dung trong file:
+  grep -r "keyword" . --include="*.md"
+
+Liệt kê file trong thư mục:
+  ls -la ./01_AI_MachineLearning/
+
+Đếm số file:
+  find . -type f | wc -l
+
+================================================================================
+❓ CÂU HỎI THƯỜNG GẶP
+================================================================================
+
+Q: Tôi nên bắt đầu từ đâu?
+A: Mở README.md → Xem phần "BẮT ĐẦU NHANH" → Chọn lĩnh vực
+
+Q: File nào là quan trọng nhất?
+A:
+  • README.md (tổng quan)
+  • 04_Guides_Tutorials/Kali (nếu học bảo mật)
+  • OSINT_IP/00_READ_ME_FIRST.txt (nếu học OSINT)
+
+Q: Tôi cần bao lâu để hoàn thành?
+A: Tùy theo mục tiêu:
+  • Cơ bản: 1-2 tuần
+  • Trung bình: 1-2 tháng
+  • Nâng cao: 3-6 tháng
+
+Q: Làm sao để tìm file cụ thể?
+A: Dùng TIM_KIEM_NHANH.md → Dùng lệnh grep
+
+================================================================================
+💡 MẸO VÀ THỦ THUẬT
+================================================================================
+
+1. Sử dụng Ctrl+F (Find) trong trình soạn thảo text
+   → Tìm kiếm nhanh trong file lớn
+
+2. Mở README.md đầu tiên
+   → Nó sẽ hướng dẫn bạn tới file phù hợp
+
+3. Sử dụng bảng tóm tắt trong DANH_MUC_PHAN_LOAI.md
+   → Dễ dàng xác định thư mục cần thiết
+
+4. Nếu file quá dài, bỏ qua phần không cần thiết
+   → Tập trung vào phần liên quan đến nhu cầu của bạn
+
+5. Ghi chú lại những điều quan trọng
+   → Sẽ giúp bạn ghi nhớ tốt hơn
+
+6. Thực hành ngay sau khi học
+   → Lý thuyết + thực hành = kết quả tốt nhất
+
+================================================================================
+🎁 LỢI ÍCH CỦA HỆ THỐNG PHÂN LOẠI
+================================================================================
+
+✅ Tiết kiệm thời gian:
+   → Không cần tìm kiếm lâu
+   → Định hướng rõ ràng
+
+✅ Dễ dàng truy cập:
+   → Phân loại theo chủ đề
+   → Learning paths rõ ràng
+
+✅ Toàn diện:
+   → Bao gồm 368 file
+   → Nhiều lĩnh vực khác nhau
+
+✅ Được tổ chức:
+   → Theo chủ đề
+   → Theo mục đích
+   → Theo kỹ năng
+
+✅ Được cập nhật:
+   → Tài liệu mới nhất (2025)
+   → Thường xuyên bổ sung
+
+================================================================================
+📅 LỊCH SỬ CẬP NHẬT
+================================================================================
+
+04/11/2025:
+  ✅ Tạo hệ thống phân loại toàn diện
+  ✅ Tạo 5 tệp hướng dẫn chính
+  ✅ Phân tích 368 file trong 11 thư mục
+  ✅ Tạo 5 learning paths khác nhau
+
+02/11/2025:
+  + Thêm 06_OSINT_Tools
+  + Cập nhật tools bảo mật mới
+
+07/09/2025:
+  + Tạo cơ bản thư mục
+
+================================================================================
+🙏 CẢM ƠN
+================================================================================
+
+Cảm ơn bạn đã sử dụng hệ thống phân loại tài liệu này!
+
+Hy vọng nó sẽ giúp bạn:
+  • Tổ chức tài liệu hiệu quả
+  • Tìm kiếm nhanh chóng
+  • Học tập một cách có kế hoạch
+  • Phát triển kỹ năng liên tục
+
+Chúc bạn học tập thành công! 🚀
+
+================================================================================
+Tài liệu này được tạo để hỗ trợ việc tổ chức và quản lý tài liệu học tập.
+Phiên bản: 1.0 | Ngày: 04/11/2025
+================================================================================

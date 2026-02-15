@@ -1,0 +1,9 @@
+AV Scanning Services
+- VirusTotal, Jotti.
+- Scanning files against multiple AV engines.
+- Caveats: Heuristic levels vary, not a comparative testing tool.
+
+Malware Detection Complexity
+- "The Art of Computer Virus Research and Defense" (Peter Szor).
+- Open source AV (ClamAV) vs Commercial.
+- Open source often lags behind commercial in detection rates.

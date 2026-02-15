@@ -1,0 +1,12 @@
+Axel Gembe
+- Author of Agobot (Gaobot, Nortonbot, Polybot).
+- Arrested May 7, 2004 in Germany.
+- Charged with computer sabotage.
+
+180Solutions Civil Law Suit
+- Lithuanian mob contacted Dutch hackers to create botnet.
+- Hackers created their own botnet (1.5 million zombies).
+- Installed 180Solutions software.
+- 180Solutions terminated agreements.
+- Hackers DDoSed 180Solutions.
+- 180Solutions sued hackers (Eric de Vogt, Jesse Donohue, Khalil Halel, Imran Patel).

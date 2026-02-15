@@ -1,0 +1,35 @@
+Whois Output Example
+
+# whois -h whois.arin.net 192.168.249.146
+
+OrgName: Enormous State University
+OrgID: ENORMOUSSU-X
+Address: XXX XX XXXX Street
+City: Enormoustown
+StateProv: SOMESTATE
+Country: US
+
+NetRange: 192.168.0.0 - 192.168.255.255
+NetName: ENORMOUSSU-NET
+RTechHandle: Netguy, Rick
+RTechEmail: netguyr@enormoussu.edu
+OrgAbuseEmail: abuse@enormoussu.edu
+
+--- VIETNAMESE TRANSLATION ---
+
+VÍ DỤ KẾT QUẢ OUTPUT WHOIS
+
+# whois -h whois.arin.net 192.168.249.146
+
+Tên tổ chức: Đại học Bang Enormous
+OrgID: ENORMOUSSU-X
+Địa chỉ: XXX XX Đường XXXX
+Thành phố: Enormoustown
+Tỉnh/Bang: SOMESTATE
+Quốc gia: US
+
+Dải mạng: 192.168.0.0 - 192.168.255.255
+Tên mạng: ENORMOUSSU-NET
+Xử lý kỹ thuật (RTechHandle): Netguy, Rick
+Email kỹ thuật: netguyr@enormoussu.edu
+Email báo cáo lạm dụng: abuse@enormoussu.edu

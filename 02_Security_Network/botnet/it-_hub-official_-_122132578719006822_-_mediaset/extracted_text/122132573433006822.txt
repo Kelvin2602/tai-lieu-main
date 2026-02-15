@@ -1,0 +1,6 @@
+Botnet Threat Landscape
+- "Killer Web Application" for organized crime.
+- Targets: Innocents, elderly, non-computer literate.
+- Evolution: From "Hunt the Wumpus" to bank fraud bots.
+- Law Enforcement: Arrests made, but court system is slow. Light sentences ("slap on the wrist").
+- August 2006: "Lost the botnet war" headlines.

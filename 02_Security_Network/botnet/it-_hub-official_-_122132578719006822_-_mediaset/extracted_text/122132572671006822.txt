@@ -1,0 +1,6 @@
+Snort Signatures
+- Bleedingsnort (rules).
+- Rolling Your Own:
+- Example Agobot/Phatbot signature by Joe Stewart.
+- `alert tcp any any -> any any (msg:"Agobot/Phatbot Infection Successful"; ...)`
+- Explanation of rule parts (action, protocol, src/dst IP/port, message, content match).

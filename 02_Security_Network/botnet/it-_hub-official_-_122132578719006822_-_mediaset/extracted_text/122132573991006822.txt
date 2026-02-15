@@ -1,0 +1,6 @@
+Honeywall & Darknets (IMS)
+- Internet Motion Sensor (IMS) - University of Michigan.
+- Darknet: Routable unused IP space (Network Telescope).
+- Monitors background radiation (scanning, backscatter).
+- Distinguishes between sources/flows.
+- Honeywall monitors traffic transparently.

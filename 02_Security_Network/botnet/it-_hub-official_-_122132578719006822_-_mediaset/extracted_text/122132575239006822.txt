@@ -1,0 +1,6 @@
+Securing the Bot Client
+- Disabling AV tools (neutering via DLL).
+- Modifying Hosts/LMHosts to block AV update sites.
+- Anti-Forensics: Rootkits (hide processes/files).
+  - Tools: hidden32.exe, HideUserV2.
+- Reconnaissance: `find.bat` (batch file to inventory system).

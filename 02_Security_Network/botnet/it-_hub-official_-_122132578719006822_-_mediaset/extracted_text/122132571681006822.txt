@@ -1,0 +1,7 @@
+Detection Signs
+- Network activity light flashing rapidly.
+- Antivirus shutting off.
+- Detection of multiple malicious codes.
+- Windows Firewall log (pfirewall.log) showing inbound connections.
+- TCPView / Process Explorer checks.
+- Security event log events (Login Failure type 3).

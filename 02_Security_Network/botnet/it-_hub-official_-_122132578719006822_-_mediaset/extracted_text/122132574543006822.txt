@@ -1,0 +1,7 @@
+Tripwire & MD5 Vulnerabilities
+- MD5 collisions (Snefru).
+- Snapshot comparison detects changes.
+- Commercial Tripwire vs Open Source:
+  - Commercial adds support, centralized admin, reporting.
+  - Important for transferring risk (SLAs).
+- "Day-zero" installation: Install on clean system.

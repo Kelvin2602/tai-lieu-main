@@ -1,0 +1,7 @@
+Figures
+
+Figure 2.3 A DDoS Attack
+Shows BotHerder -> IRC Server -> DDoS Target.
+
+Figure 2.4 A TCP Connection Handshake
+SYN, SYN+ACK, ACK.

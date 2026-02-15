@@ -1,0 +1,4 @@
+RBot Propagation via Network Shares
+- Scans ports 139 and 445 (IPC$).
+- Enumerates usernames or uses default list (Table 4.4: administrator, guest, root, etc.).
+- Brute-force weak passwords (Table 4.5: 007, chris, cisco, 1, password...).

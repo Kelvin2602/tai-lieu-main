@@ -1,0 +1,29 @@
+Table of Contents (continued)
+
+Chapter 4: Signs of Compromise (System Folder, Registry, Unexpected Traffic...)
+
+Chapter 5 Botnet Detection: Tools and Techniques
+- Introduction
+- Abuse (Spam and Abuse)
+- Network Infrastructure: Tools and Techniques (SNMP, Netflow, Firewalls, Logging)
+- Intrusion Detection (Snort, etc.)
+- Darknets, Honeypots
+- Forensics Techniques and Tools
+
+Chapter 6 Ourmon: Overview and Installation
+
+--- VIETNAMESE TRANSLATION ---
+
+MỤC LỤC (tiếp theo)
+
+Chương 4: Các dấu hiệu bị xâm nhập (Thư mục hệ thống, Registry, Lưu lượng truy cập không mong muốn...)
+
+Chương 5 Phát hiện Botnet: Công cụ và Kỹ thuật
+- Giới thiệu
+- Lạm dụng (Spam và Lạm dụng)
+- Cơ sở hạ tầng mạng: Công cụ và Kỹ thuật (SNMP, Netflow, Tường lửa, Nhật ký)
+- Phát hiện xâm nhập (Snort, v.v.)
+- Darknets, Honeypots
+- Kỹ thuật và Công cụ Pháp y
+
+Chương 6 Ourmon: Tổng quan và Cài đặt

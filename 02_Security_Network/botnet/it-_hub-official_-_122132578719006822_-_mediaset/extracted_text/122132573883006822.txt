@@ -1,0 +1,6 @@
+Router ACL Logging
+- "You should never drive faster than your guardian angel can fly."
+- Watching firewall logs for outbound attacks.
+- Example Cisco log: Denied tcp Src->Dst port 25.
+- Infected internal host (spambot) trying to send email directly.
+- Best practice: Block outbound 25 for all but mail gateways.

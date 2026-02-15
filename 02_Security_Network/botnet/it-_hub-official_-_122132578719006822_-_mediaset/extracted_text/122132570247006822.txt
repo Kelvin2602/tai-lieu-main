@@ -1,0 +1,11 @@
+Clicks for Hire scam
+- Adware installed surreptitiously.
+- Reselling installations.
+- Ancheta avoided detection by varying download times.
+
+Anthony Scott Clark
+In December 2005, Anthony Scott Clark of Beaverton, Oregon, pled guilty to infecting thousands of computers and using them for DDoS.
+- Participated in DDoS attacks against eBay.
+- Used a worm exploiting RPC-DCOM vulnerability.
+- Directed bots to a password-protected IRC server.
+- Clark personally commanded bots to attack eBay nameserver.

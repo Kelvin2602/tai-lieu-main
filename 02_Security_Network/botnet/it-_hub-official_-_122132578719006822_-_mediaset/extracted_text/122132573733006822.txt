@@ -1,0 +1,7 @@
+Anomaly Detection
+- Signatures:
+  - TCP/6129 (Dameware).
+  - TCP/2745 (Bagle).
+  - Exploits (Symantec AV, MS06-040).
+- Anomaly Pros: Detects new attacks (0-day).
+- Anomaly Cons: False Positives (FPs). High maintenance (tuning thresholds).

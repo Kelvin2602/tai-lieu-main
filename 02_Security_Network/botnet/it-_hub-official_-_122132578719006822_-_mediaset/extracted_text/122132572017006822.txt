@@ -1,0 +1,8 @@
+Botnet Remediation & Economics
+- Re-imaging systems preferred over cleaning single components due to modularity.
+- Targeted attacks (e-gold account theft).
+
+How Big Is the Problem?
+- Symantec Internet Threat Report (Sept 2006): 57,717 active bots per day.
+- 4.5 million distinct bots in 6 months.
+- Reality likely much larger due to stealth.

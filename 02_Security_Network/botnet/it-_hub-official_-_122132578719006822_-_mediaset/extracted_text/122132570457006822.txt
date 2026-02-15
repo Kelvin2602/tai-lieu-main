@@ -1,0 +1,11 @@
+180Solutions
+- Terminated 500 affiliate agreements.
+- DDoS attack described in Chapter 1.
+- Changed name to Zango.
+
+Figure 2.6 A Clicks4Hire Botnet Scam
+Diagram showing Vendor -> Ad Banners -> Website -> Bot Commands -> BotHerder -> Fake Clicks.
+
+Are You Owned?
+A Botnet Clicks4Hire Scheme
+May 15, 2006, ISC reported botnet used to scam Google Adsense.

@@ -1,0 +1,13 @@
+The Evolution of Malicious IRC Bots
+Variants in 2003 included:
+- MS03-026 (DCOM RPC Buffer Overrun)
+- MS04-011 (LSASS Buffer Overflow)
+- MS02-056 (SQL Server Authentication Buffer Overflow)
+- MS01-059 (UPnP NOTIFY Buffer Overflow)
+- MS03-049 (Workstation Service Buffer Overrun)
+- CAN-2003-0960 (DameWare Mini Remote Control)
+- UNIRAS 20041217-00920 (VERITAS Backup Exec)
+- Beagle, MyDoom, Netdevil, OptixPro, SubSeven, Kuang2.
+
+RBot
+RBot first appeared in 2003. According to June 2006 MSRT report...

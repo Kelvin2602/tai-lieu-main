@@ -1,0 +1,5 @@
+Locating Infected Computers (Process)
+- Difficulties: Outdated documentation, incorrect room/jack info.
+- Strategy: Correlate UserID, Time, IP.
+- XP Security Log limitation: Mentions NetBIOS name, not IP.
+- Creative location: Matching UserID to faculty/student records.

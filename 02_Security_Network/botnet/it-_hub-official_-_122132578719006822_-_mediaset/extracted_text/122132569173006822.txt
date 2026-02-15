@@ -1,0 +1,17 @@
+About the Authors
+
+David (Chapter 5): Experienced antivirus researcher, BS7799 Lead Auditor, ITIL Service Management. Background in NHS security analysis.
+
+Chris Ries (Tech Editor Chapter 8 & 9): Security Research Engineer for VigilantMinds Inc. Research in software vulnerabilities, malware analysis. Worked at NCFTA.
+
+Carsten Willems (Chapter 10): Independent software developer. Creator of CWSandbox (automated malware analysis tool). PhD student at University of Mannheim.
+
+--- VIETNAMESE TRANSLATION ---
+
+VỀ CÁC TÁC GIẢ
+
+David (Chương 5): Nhà nghiên cứu diệt virus giàu kinh nghiệm, Kiểm toán viên trưởng BS7799, Quản lý dịch vụ ITIL. Có nền tảng về phân tích bảo mật NHS.
+
+Chris Ries (Biên tập kỹ thuật Chương 8 & 9): Kỹ sư nghiên cứu bảo mật cho VigilantMinds Inc. Nghiên cứu về các lỗ hổng phần mềm, phân tích phần mềm độc hại. Đã làm việc tại NCFTA.
+
+Carsten Willems (Chương 10): Nhà phát triển phần mềm độc lập. Người tạo ra CWSandbox (công cụ phân tích phần mềm độc hại tự động). Nghiên cứu sinh tiến sĩ tại Đại học Mannheim.

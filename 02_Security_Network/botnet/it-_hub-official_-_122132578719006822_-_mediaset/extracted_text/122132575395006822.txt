@@ -1,0 +1,6 @@
+Tripwire History & Function
+- Created by Gene Kim & Eugene Spafford (Purdue, 1992).
+- Commercial vs Open Source (GPL).
+- Integrity monitoring using message digests (hashes).
+- Detects changes in files/directories.
+- "Signature" here means file hash (snapshot), not attack signature.

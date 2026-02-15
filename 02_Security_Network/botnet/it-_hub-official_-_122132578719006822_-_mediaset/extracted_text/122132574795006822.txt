@@ -1,0 +1,7 @@
+NIDS vs HIDS
+- NIDS: Network-based.
+  - DoS detection.
+  - Port scans.
+  - Attack signatures (e.g., Code Red default.ida pattern).
+- Ingress vs Egress filtering.
+- HIDS: Host-based.

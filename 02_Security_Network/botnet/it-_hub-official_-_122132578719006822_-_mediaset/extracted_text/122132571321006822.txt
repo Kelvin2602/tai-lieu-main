@@ -1,0 +1,15 @@
+SDBot Commands (Table 2.1)
+Recruiting:
+- scanall/sa
+- scanstats/stats
+- scandel [method] (lsass, mydoom, dameware, etc.)
+- scanstop
+- advscan/asc
+
+Downloading and updating:
+- update/up [url]
+- download/dl [url]
+
+Execute:
+- execute/e [path]
+- findfile/ff filename

@@ -1,0 +1,6 @@
+Table of Contents - Common Botnets Details
+
+SDBot (Aliases, Infection, Signs of Compromise...)
+RBot (Aliases, Infection, Using Known Vulnerability Exploits...)
+Agobot (Aliases, Infection, Modify Hosts File, Theft of Information...)
+Spybot (Aliases, Infection, Keystroke Logging...)

@@ -1,0 +1,11 @@
+Botnet Detection: Tools and Techniques
+
+Solutions in this chapter:
+- Abuse
+- Network Infrastructure: Tools and Techniques
+- Intrusion Detection
+- Darknets, Honeypots, and Other Snares
+- Forensics Techniques and Tools for Botnet Detection
+
+Summary
+Solutions Fast Track

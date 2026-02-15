@@ -1,0 +1,19 @@
+Alternative Botnet C&Cs
+
+Solutions in this chapter:
+- Historical C&C Technology as a Road Map
+- DNS and C&C Technology
+
+Summary
+Solutions Fast Track
+
+--- VIETNAMESE TRANSLATION ---
+
+CÁC C&C BOTNET THAY THẾ
+
+Giải pháp trong chương này:
+- Công nghệ C&C lịch sử như một lộ trình
+- DNS và công nghệ C&C
+
+Tóm tắt
+Giải pháp Nhanh

@@ -1,0 +1,8 @@
+Echo Request and Control Channels
+- Bot announces itself ("Hi! I am here master!").
+- Announcement is "echo".
+- Bad guys switched to private/compromised computers for C&C.
+- Snooping by botnet hunters caused escalation:
+  - Servers not responding to standard IRC commands.
+  - Invisible nicknames.
+  - Password protected channels.

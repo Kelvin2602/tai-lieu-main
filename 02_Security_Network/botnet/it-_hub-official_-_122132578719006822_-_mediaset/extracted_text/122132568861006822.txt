@@ -1,0 +1,29 @@
+Botnets Overview
+
+"If only it were possible to reproduce yourself a million times over so that you can achieve a million times more than you can today."
+—Dr. Joseph Goebbels, Propaganda Minister for Nazi Germany; from the 15 Feb 1943 entry in his personal diary.
+
+Solutions in this chapter:
+- What Is a Botnet?
+- The Botnet Life Cycle
+- What Does a Botnet Do?
+- Botnet Economics
+
+Summary
+Solutions Fast Track
+
+--- VIETNAMESE TRANSLATION ---
+
+TỔNG QUAN VỀ BOTNETS
+
+"Giá như có thể tự nhân bản mình thêm một triệu lần để có thể đạt được thành quả gấp một triệu lần những gì bạn có thể làm hôm nay."
+—Dr. Joseph Goebbels, Bộ trưởng Tuyên truyền của Đức Quốc xã; trích từ nhật ký cá nhân ngày 15 tháng 2 năm 1943.
+
+Giải pháp trong chương này:
+- Botnet là gì?
+- Vòng đời của Botnet
+- Botnet làm những gì?
+- Kinh tế học Botnet
+
+Tóm tắt
+Giải pháp Nhanh

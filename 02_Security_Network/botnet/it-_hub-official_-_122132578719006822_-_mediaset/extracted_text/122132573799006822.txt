@@ -1,0 +1,6 @@
+Forensic Process (Case Study)
+- Help desk ticket -> Network quarantine.
+- Collect Event Logs and Virus Logs.
+- Event Logs location: %WinDir%\system32\config (*.evt).
+- Audit Policy: Logon events, Account management, Policy change, Privilege use.
+- Look for failed logons (Event ID 529 etc.) -> Successful logon.

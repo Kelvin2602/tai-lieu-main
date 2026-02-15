@@ -1,0 +1,7 @@
+Cz Stats / Drop Zones
+- Screenshot of "Bot traffic Statistics" (Cz Stats).
+- Drop zones for banking/phishing bots (FTP).
+- Not pure C&C but control channel.
+
+Advanced DNS-Based Botnets
+- Use of DNS for obfuscation/redundancy.

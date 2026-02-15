@@ -1,0 +1,8 @@
+RBot Registry & Mutex
+- Registry Keys: HKLM...Run, HKCU...Run, RunServices.
+- Mutex: Ensures only one copy runs (e.g., "rxlsass01b").
+- Intelligence: Resets registry keys if deleted.
+
+Terminated Processes (Table 4.3)
+- regedit.exe, msconfig.exe, taskmgr.exe.
+- Anti-malware tools.

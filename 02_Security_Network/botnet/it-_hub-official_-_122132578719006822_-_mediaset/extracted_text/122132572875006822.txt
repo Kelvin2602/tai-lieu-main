@@ -1,0 +1,7 @@
+Drop Zones & Data Theft
+- Drop zones collect stolen credentials.
+- Automatic filtering (e.g., "if mybank.com, steal x").
+- Real-time transaction manipulation.
+
+Figure 3.2: Origins of Credentials Gathered by a Botnet
+- Screenshot of admin panel showing statistics by country (US, Germany, China, etc.).

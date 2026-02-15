@@ -1,0 +1,289 @@
+================================================================================
+                    CHỈ MỤC CHI TIẾT CÁC TÀI LIỆU
+                        tai-lieu-main Project
+================================================================================
+
+Ngày tạo: 04/11/2025
+Tổng số file: 368
+Tổng số thư mục: 11 chính + nhiều thư mục con
+
+================================================================================
+1. 01_AI_MachineLearning/ - AI & Công nghệ trí tuệ nhân tạo
+================================================================================
+
+Chủ đề:
+  - 2025 AI Tools Comprehensive Guide
+  - AI Detection Tools
+  - AI Chat Models (ChatGPT, Gemini, Claude, etc.)
+  - Code Generation Tools (GitHub Copilot, Codex)
+  - Creative & Research Tools
+  - Writing Tools (Content generation)
+  - Image Generation Tools
+  - Presentation Tools
+  - Website Building Tools
+  - Automation Tools
+
+File chính:
+  • 2025 年 AI 工具大全及推荐.md
+  • 20250907_055421_AI_Tool_Table_Of_Contents.md
+  • 20250907_055421_comprehensive_osint_tools_guide.md
+  • [~40+ file khác về các công cụ AI cụ thể]
+
+================================================================================
+2. 02_Security_Network/ - Bảo mật & An ninh mạng
+================================================================================
+
+Chủ đề:
+  - Hacking Tutorials (Hướng dẫn hack)
+  - Remote Control Malware
+  - Exploit Database & Exploitation
+  - Vulnerability Scanning Tools (DarkAngel)
+  - Brute Force Tools (Hydra)
+  - Reverse Shell & Bypass Antivirus
+  - MITRE ATT&CK Framework
+  - Kali Linux Tools
+
+⚠️ CẢNH BÁO: Chỉ dùng cho giáo dục/authorized pentesting!
+
+File chính:
+  • 【主动+被动】综合子域名收集工具Haxunit.md (352KB)
+  • 【安全工具】FoFa 查询工具的配置及使用.md (1.1MB)
+  • 【黑客教程】利用木马远程控制目标手机.md (1.7MB)
+  • DarkAngel——全自动漏洞扫描器.md (976KB)
+  • [~25+ file khác]
+
+================================================================================
+3. 03_Cloud_Infrastructure/ - Điện toán & Hạ tầng
+================================================================================
+
+Chủ đề:
+  - Cloud Computing (Alibaba Claw Cloud - Free)
+  - IoT Platform Development
+  - Code Editors (Vibe Coding)
+  - NFC Communication Technology
+  - WhatsApp Bot Development (npm)
+  - Cloud Phone Setup
+
+File chính:
+  • 【免费白嫖】阿里云 Claw Cloud Run.md (1MB)
+  • IoT平台搭建教程.md (846KB)
+  • Vibe Coding初学者入门指南.md (503KB)
+  • 云手机搭建教程 (电子书).md (1.3MB)
+
+================================================================================
+4. 04_Guides_Tutorials/ - Hướng dẫn & Tài liệu tổng hợp
+================================================================================
+
+Chủ đề:
+  - Kali Linux Installation Guide 2025
+  - CodeX Programming
+  - Vibe Coding for Beginners
+  - NFC Communication
+  - WhatsApp Bot via npm
+  - Python Love Code
+  - Website Builder Tools
+  - Data Collection (Web Scraping)
+  - ChatGPT Usage Tips
+
+File chính:
+  • 2025版Kali操作系统安装宝典.md (1.5MB)
+  • CodeX从入门到一边睡觉一边编程入门篇.md (54KB)
+  • 教你几分钟学会Python爱心代码.md (705KB)
+  • 高效数据采集方案：AnyCrawl网页爬虫工具.md (890KB)
+
+================================================================================
+5. 05_DataScience/ - Khoa học dữ liệu
+================================================================================
+
+Chủ đề:
+  - Python Libraries for Data Science (26 libraries)
+  - Data Science Datasets (35+ public datasets)
+  - Mathematical Modeling
+
+File chính:
+  • 26 个 Python 顶流库.md (605KB)
+  • 数据科学家的宝藏！35+顶级公开数据集.md (98KB)
+
+================================================================================
+6. 06_OSINT_Tools/ - OSINT & IP Tracing
+================================================================================
+
+Chủ đề:
+  - OSINT Tools & Techniques
+  - IP Address Tracking & Analysis
+  - Social Media OSINT (Facebook, TikTok)
+  - Kali Linux Tools Classification
+  - Exploit Database Analysis
+
+File chính:
+  • 00_READ_ME_FIRST.txt (5.4KB)
+  • comprehensive_osint_tools_guide.md (14KB)
+  • OSINT_Tools_Classification.md (13KB)
+  • kali_tools_detailed.md (19KB)
+  • myip_cong-cu-kiem-tra-thong-tin-ip.md
+
+================================================================================
+7. 07_Development_Hacking/ - Phát triển & Hacking Tools
+================================================================================
+
+Chủ đề:
+  - Hacker Tools Compilation (2025)
+  - Penetration Testing Targets
+  - Kali Linux Installation
+  - Web Exploitation (XSS, Clickjacking)
+  - Mobile Hacking
+  - ZIP Password Cracking
+
+⚠️ CẢNH BÁO: Chỉ dùng cho giáo dục/authorized pentesting!
+
+File chính:
+  • 2025最受欢迎的20款黑客工具.md (2MB)
+  • 2025最新渗透测试靶场推荐.md (1.7MB)
+  • Zip密码破解工具.md (350KB)
+
+================================================================================
+8. 09_AIImageGen/ - Tạo ảnh bằng AI
+================================================================================
+
+Chủ đề:
+  - AI Image Generation
+  - Prompt Engineering for Images
+  - Nano Banana AI
+  - Instant AI (即梦 AI)
+  - Video Generation with AI
+
+File chính:
+  • Nano Banana 创意提示词插件.md (1.2MB)
+  • 一片荷叶，6个运镜，让胖橘猫.md (309KB)
+  • 再见了豆包.md (1.9MB)
+  • 即梦AI超实用的P图万能公式.md (762KB)
+
+================================================================================
+9. 10_ChatGPT_Prompts/ - ChatGPT Tools & Prompts
+================================================================================
+
+Chủ đề:
+  - 10,000 ChatGPT Prompts & Guides
+  - Social Media Growth (Instagram, Facebook, TikTok, X)
+  - SEO Optimization Guides
+  - YouTube Channel Development
+  - Pinterest Growth Methods
+  - AI Automation Tools (4989+ tools)
+
+File chính (Excel/PDF):
+  • 10,000 Chatgpt đã được đào tạo.xlsx (1.7MB)
+  • 4989 tool AI tự động hóa.xlsx (728KB)
+  • 140 phím tắt trên Google Sheet.pdf (993KB)
+  • TOP 12 tool Youtube.pdf (1.6MB)
+  • [~30+ file khác]
+
+================================================================================
+10. 08_Skills_Resources/ - Kỹ năng & Plugin
+================================================================================
+
+Subdirectories:
+  • algorithmic-art/ - Nghệ thuật theo thuật toán
+  • artifacts-builder/ - Xây dựng web artifacts
+  • brand-guidelines/ - Branding guidelines
+  • canvas-design/ - Canvas design tools
+  • document-skills/ - Document processing
+  • internal-comms/ - Communications
+  • mcp-builder/ - MCP Server building
+  • skill-creator/ - Custom skill creation
+  • slack-gif-creator/ - GIF creation
+  • template-skill/ - Templates
+  • theme-factory/ - Theme creation
+  • webapp-testing/ - Web app testing
+
+================================================================================
+11. 02.11.2025/ - Tài liệu mới nhất
+================================================================================
+
+Status: Đang cập nhật các tài liệu mới
+
+================================================================================
+TÓMLƯỢC TỔNG QUÁT
+================================================================================
+
+Thống kê file:
+  • Markdown files (.md): ~320 files
+  • Excel files (.xlsx): ~30 files
+  • PDF files (.pdf): ~10 files
+  • Text files (.txt): ~5 files
+  • Code files: ~3 files
+  • Total: ~368 files
+
+Thống kê dung lượng:
+  • 10_ChatGPT_Prompts: 1.7GB
+  • 02_Security_Network: 250MB+
+  • 07_Development_Hacking: 200MB+
+  • 03_Cloud_Infrastructure: 180MB+
+  • 01_AI_MachineLearning: 160MB+
+  • Total: ~2.5GB+
+
+================================================================================
+HƯỚNG DẪN SỬ DỤNG NHANH
+================================================================================
+
+1. Tìm kiếm file:
+   find . -name "filename" -type f
+
+2. Tìm kiếm nội dung:
+   grep -r "keyword" --include="*.md"
+
+3. Liệt kê file trong thư mục:
+   ls -lah ./directory/
+
+4. Xem nội dung file:
+   cat filename.md
+   more filename.md
+
+5. Đếm số file:
+   find . -type f | wc -l
+
+================================================================================
+LỰI PHÂN LOẠI THEO NHU CẦU
+================================================================================
+
+Nếu bạn muốn:
+
+📚 Học AI & Machine Learning:
+   → 01_AI_MachineLearning/ + Top trợ lý ChatGPT/ + 05_DataScience/
+
+🛡️ Học Bảo mật (⚠️ Chỉ giáo dục):
+   → 04_Guides_Tutorials/Kali + 02_Security_Network/ + 07_Development_Hacking/ + OSINT_IP/
+
+🚀 Phát triển ứng dụng:
+   → 03_Cloud_Infrastructure/ + 04_Guides_Tutorials/ + 08_Skills_Resources/
+
+📱 Tăng trưởng social media:
+   → Top trợ lý ChatGPT/ + 09_AIImageGen/ + 01_AI_MachineLearning/
+
+🎨 Tạo ảnh/content sáng tạo:
+   → 09_AIImageGen/ + 01_AI_MachineLearning/
+
+📊 Khoa học dữ liệu:
+   → 05_DataScience/ + 04_Guides_Tutorials/
+
+🔍 OSINT & Intelligence:
+   → 06_OSINT_Tools/ + 02_Security_Network/
+
+================================================================================
+CẬP NHẬT GẦN ĐÂY
+================================================================================
+
+04/11/2025:
+  + Tạo hệ thống phân loại toàn diện
+  + Tạo INDEX_CHI_TIET.txt
+  + Tạo DANH_MUC_PHAN_LOAI.md
+
+02/11/2025:
+  + Thêm 06_OSINT_Tools
+  + Cập nhật tools mới
+
+07/09/2025:
+  + Tạo cơ bản thư mục và tài liệu
+
+================================================================================
+End of Index
+================================================================================

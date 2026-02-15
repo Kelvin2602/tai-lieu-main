@@ -1,0 +1,5 @@
+Release Groups and Topsites
+- Diagram: Supplier -> Ripper -> Release Group -> Topsite -> Botnet Clients vs WebSite Owner.
+- 44% of movie piracy attributed to college students (MPAA).
+- Release groups use university botnet clients as Topsites.
+- Examples: Operation Buccaneer, Operation Fastlink, Operation D-Elite, Operation SiteDown.

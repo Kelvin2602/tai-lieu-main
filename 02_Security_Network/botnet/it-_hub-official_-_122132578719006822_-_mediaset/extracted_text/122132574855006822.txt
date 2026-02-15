@@ -1,0 +1,5 @@
+Forensic Toolkit & Naming Convention
+- Tools (USB stick): Sysinternals (Process Explorer, TCPView, Autoruns, Rootkit Revealer), AntiHookExec.
+- `find.bat`: Script to locate owner's files.
+- Naming Convention: `ComputerName Date Description` (e.g., GOTHAM 061227 Security Event.evt).
+- Caveat: Bot may hide files (rootkit). Use external boot (PXE) if needed.

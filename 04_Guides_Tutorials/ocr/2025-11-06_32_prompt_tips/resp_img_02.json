@@ -1,0 +1,9 @@
+﻿{
+    "OCRExitCode":  99,
+    "IsErroredOnProcessing":  true,
+    "ErrorMessage":  [
+                         "Parameter name \u0027isOverlay\u0027 is invalid. Valid parameters: apikey,url,language,isoverlayrequired,base64image,iscreatesearchablepdf,issearchablepdfhidetextlayer,filetype,addressparsing,scale,detectorientation,istable,ocrengine,detectcheckbox,checkboxtemplate,checkboxtemplateregex",
+                         "Please check if you need to URL encode the URL passed in request parameters."
+                     ],
+    "ProcessingTimeInMilliseconds":  "0"
+}

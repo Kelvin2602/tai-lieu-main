@@ -1,0 +1,25 @@
+Table of Contents - Chapter 1 & 2
+
+Chapter 1 Botnets: A Call to Action
+- The Killer Web App
+- How Big Is the Problem? (History: Pretty Park, SubSeven, GT Bot, SDBot, Agobot...)
+- Cases in the News (Axel Gembe, Operation Cyberslam, Jeffrey Parson...)
+- The Industry Responds
+
+Chapter 2 Botnets Overview
+- What Is a Botnet?
+- The Botnet Life Cycle (Exploitation, Malicious Code, Attacks against Unpatched Vulnerabilities...)
+
+--- VIETNAMESE TRANSLATION ---
+
+MỤC LỤC - CHƯƠNG 1 & 2
+
+Chương 1 Botnets: Lời kêu gọi hành động
+- Ứng dụng Web chết người
+- Vấn đề lớn đến mức nào? (Lịch sử: Pretty Park, SubSeven, GT Bot, SDBot, Agobot...)
+- Các vụ việc trên tin tức (Axel Gembe, Chiến dịch Cyberslam, Jeffrey Parson...)
+- Phản ứng của Ngành công nghiệp
+
+Chương 2 Tổng quan về Botnets
+- Botnet là gì?
+- Vòng đời của Botnet (Khai thác, Mã độc, Tấn công vào các lỗ hổng chưa được vá...)

@@ -1,0 +1,7 @@
+SDBot Origins
+- Appeared early 2002.
+- Written by Russian programmer "sd".
+- C++ source code released.
+- Small binary (40KB).
+- Includes remote control backdoors.
+- Spreads via NetBios, NTPass, DCom, MS RPC, ASN.1, UPNP.

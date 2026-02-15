@@ -1,0 +1,6 @@
+Alternative C&C Technology
+- Why move from IRC?
+  - IRC is centralized (Achilles' heel).
+  - Easy to block/shutdown.
+- IRC advantages: Interactive, easy to set up, redundancy (linking servers).
+- Move towards decentralized methods (P2P, HTTP) to avoid single point of failure.

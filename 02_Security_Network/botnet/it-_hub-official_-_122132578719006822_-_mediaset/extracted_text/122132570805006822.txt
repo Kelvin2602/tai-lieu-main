@@ -1,0 +1,7 @@
+Hash List Files (.LST)
+- RIP-MD5.LST, SHA-1.LST, SMB.LST, SMTP.LST, SNMP.LST, SSH-1.LST, TELNET.LST, VNC.LST, VoIP.LST, etc.
+
+DDoS
+- Earliest malicious use: DDoS against competitors/rivals.
+- TCP Syn Floods, UDP Floods.
+- TCP Connection Handshake: SYN -> SYN/ACK -> ACK.

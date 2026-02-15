@@ -1,0 +1,9 @@
+Installing Snort
+- Windows: Needs WinPCap.
+- Linux: Needs libpcap, pcre, MySQL.
+- SnortReport, BASE (Basic Analysis and Security Engine).
+- References: Syngress Snort 2.1 Book, giac.org articles.
+
+Roles & Rules
+- Packet sniffer vs NIDS.
+- Intrusion Detection allows detecting buffer overflows, port scans, SMB probes.

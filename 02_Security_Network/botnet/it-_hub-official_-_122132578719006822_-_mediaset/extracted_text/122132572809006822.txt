@@ -1,0 +1,10 @@
+Intrusion Prevention Systems (IPS)
+- Inline NIDS (e.g., Hogwash).
+- Inspects and passes/rejects traffic (packet scrubber).
+- Snort engine for detection.
+
+Virus Detection on Hosts
+- Controls model:
+  - Administrative (policies).
+  - Preventative (measures to lower exposure).
+  - Detective (identify breaches).

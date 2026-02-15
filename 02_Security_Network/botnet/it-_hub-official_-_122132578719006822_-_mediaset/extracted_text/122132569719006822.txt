@@ -1,0 +1,13 @@
+Q&A
+
+Q: Mytob is not a bot in and of itself...
+A: It is a mass-mailing worm that includes SDBot as payload.
+
+Q: Common method to avoid detection?
+A: Terminate antivirus processes.
+
+Q: How do bots prevent updates?
+A: Modify Hosts file to redirect AV sites to 127.0.0.1.
+
+Q: Which bot family blocks Windows XP SP2?
+A: Spybot family.

@@ -1,0 +1,5 @@
+Cain and Abel Tool
+- Hacker tool collecting output files:
+- 80211.LST, APOP-MD5.LST, APR.LST, CACHE.LST, CERT.LST (fake certs), VOIP.LST (.wav files), etc.
+- Cracking password files (Rainbowtables).
+- MITM attacks.

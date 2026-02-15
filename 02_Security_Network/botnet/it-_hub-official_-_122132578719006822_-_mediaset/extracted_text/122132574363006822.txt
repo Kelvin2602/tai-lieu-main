@@ -1,0 +1,6 @@
+Analysis of Failed Logins
+- Screenshot: Event Viewer showing Audit Failures (Event 529).
+- Clues: Default accounts (Administrator, Administrateur, Administrador).
+- Timing: Attacks during non-working hours.
+- Analysis Strategy: Identify computers listed in "Workstation" field of type 3 login failures.
+- Result: Found 200 infected computers.

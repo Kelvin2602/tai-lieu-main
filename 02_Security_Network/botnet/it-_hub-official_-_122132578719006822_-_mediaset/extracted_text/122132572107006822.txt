@@ -1,0 +1,9 @@
+Botnet Clean-up & Economics
+- Erase evidence: Botherder may command bot to uninstall or clear logs (clearlogs.exe).
+- Detection often happens after bot is abandoned.
+
+Botnet Economics
+- Spam and Phishing.
+- Jeremy Jaynes ($750k/month from spam).
+- $24 million total.
+- Comparison: 1 sale per 30,000 emails = $40.

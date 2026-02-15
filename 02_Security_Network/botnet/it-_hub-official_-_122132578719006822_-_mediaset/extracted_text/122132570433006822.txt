@@ -1,0 +1,9 @@
+Historical C&C Technology as a Road Map
+- Initially used for functional purposes (maintaining IRC channel).
+- Became more sophisticated (password protected channels).
+
+DNS and C&C Technology
+- IRC servers inter-linked.
+- DNS used for domain names and multihoming to find C&C.
+- Takedown of DNS record is difficult.
+- Several RRs (Resource Records) for the same IP.

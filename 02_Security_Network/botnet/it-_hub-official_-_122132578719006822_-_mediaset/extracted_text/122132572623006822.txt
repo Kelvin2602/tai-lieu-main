@@ -1,0 +1,4 @@
+Spybot Propagation and Capabilities
+- Connects to IRC. Can start HTTP/FTP/TFTP headers.
+- Keystroke Logging: Capture passwords, bank info. Targets windows with bank/login titles.
+- Propagation: Network shares (weak passwords), Known vulnerabilities (DCOM RPC MS03-026, LSASS MS04-011).

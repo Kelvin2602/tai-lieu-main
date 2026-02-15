@@ -1,0 +1,5 @@
+Fast Flux DNS Tracking
+- Passive DNS replication (Florian Weimer).
+- Example: georgebush.com, democratsforbush.net, kimble.org pointing to same IP (64.203.97.121).
+- Rapidly changing A records.
+- "Follow the money" / "Follow the DNS".

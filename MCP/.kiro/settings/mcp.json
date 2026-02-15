@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "excel-local": {
+      "command": "node",
+      "args": [
+        "D:\\tai-lieu-main\\MCP\\mcp-servers-local\\excel-mcp-server\\dist\\launcher.js"
+      ],
+      "env": {
+        "EXCEL_MCP_PAGING_CELLS_LIMIT": "4000"
+      },
+      "disabled": false,
+      "autoApprove": []
+    }
+  }
+}

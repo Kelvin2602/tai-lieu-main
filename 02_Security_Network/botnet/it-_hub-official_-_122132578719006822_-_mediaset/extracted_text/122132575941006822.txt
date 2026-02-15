@@ -1,0 +1,6 @@
+Defense in Depth (Onion Model)
+- Antivirus is just one layer.
+- Should exist on Desktop, Server, Mail Gateway.
+- Includes Heuristics and Generic Filtering.
+- Central management for enterprise AV.
+- "Cinderella of security industry": Declining effectiveness but still necessary.

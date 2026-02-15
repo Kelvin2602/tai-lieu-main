@@ -1,0 +1,6 @@
+ServU FTP & Piracy
+- Botnets used for Warez/Piracy distribution.
+- Drftpd (Distributed FTP daemon).
+- ServU Secure FTP (hacked copy).
+- Pyramid of Internet Piracy (MPAA).
+- "Release Groups" hire botnets for storage/distribution.

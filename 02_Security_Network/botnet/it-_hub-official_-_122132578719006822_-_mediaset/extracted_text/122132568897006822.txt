@@ -1,0 +1,13 @@
+Table of Contents (partial)
+
+Chapter 7 Ourmon: Anomaly Detection Tools
+Chapter 8 IRC and Botnets
+Chapter 9 Advanced Ourmon Techniques
+
+--- VIETNAMESE TRANSLATION ---
+
+MỤC LỤC (một phần)
+
+Chương 7 Ourmon: Các công cụ phát hiện bất thường
+Chương 8 IRC và Botnets
+Chương 9 Các kỹ thuật Ourmon nâng cao

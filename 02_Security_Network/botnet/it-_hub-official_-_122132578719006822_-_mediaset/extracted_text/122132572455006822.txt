@@ -1,0 +1,8 @@
+Netflow Tools
+- Silk tools, Flow tools, FlowScan.
+- URLs provided.
+
+Firewalls and Logging
+- Blaster/Welchia outbreaks noticed in firewall logs first.
+- Increase in blocked messages on same port.
+- Firewall logs useful for spotting infected hosts (outbound denials).

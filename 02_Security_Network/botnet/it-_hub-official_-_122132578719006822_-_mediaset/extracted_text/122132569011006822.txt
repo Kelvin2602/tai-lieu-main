@@ -1,0 +1,19 @@
+Operation Cyberslam: Jay Echouafni, Jeanson James Ancheta
+
+The first U.S. criminal case involving a botnet went to trial in November 2005.
+Jeanson James Ancheta (aka Resili3nt), age 21, of Downey, California, was convicted and sentenced to five years in jail.
+He was ordered to pay $57,000 in restitution.
+Ancheta's botnet consisted of thousands of zombies used to launch DDoS or send spam.
+
+Figure 1.2 A Simple Botnet Overview: Shows BotHerder controlling Zombies via IRC Server to attack targets.
+
+--- VIETNAMESE TRANSLATION ---
+
+CHIẾN DỊCH CYBERSLAM: JAY ECHOUAFNI, JEANSON JAMES ANCHETA
+
+Vụ án hình sự đầu tiên của Hoa Kỳ liên quan đến botnet đã được đưa ra xét xử vào tháng 11 năm 2005.
+Jeanson James Ancheta (aka Resili3nt), 21 tuổi, ở Downey, California, đã bị kết án và tuyên phạt 5 năm tù giam.
+Anh ta bị buộc phải trả 57.000 đô la tiền bồi thường.
+Botnet của Ancheta bao gồm hàng ngàn máy zombie được sử dụng để phát động tấn công DDoS hoặc gửi thư rác.
+
+Hình 1.2 Tổng quan về Botnet đơn giản: Hiển thị BotHerder điều khiển Zombie qua Máy chủ IRC để tấn công các mục tiêu.

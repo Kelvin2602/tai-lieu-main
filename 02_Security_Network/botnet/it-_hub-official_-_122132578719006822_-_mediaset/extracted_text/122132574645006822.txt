@@ -1,0 +1,5 @@
+Malware Distribution & Heuristics
+- "In the Wild" (ItW) definition becoming less relevant for targeted attacks.
+- WildList reported malware vs actual bot variants (thousands).
+- Heuristic Analysis: Proactive approach.
+- Reactive approach (signatures) leaves "window of vulnerability".

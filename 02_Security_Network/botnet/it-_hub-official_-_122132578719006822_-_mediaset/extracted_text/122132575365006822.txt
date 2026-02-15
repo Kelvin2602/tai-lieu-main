@@ -1,0 +1,8 @@
+Smurf Attacks & Adware Installation
+- Smurf Attack: ICMP echo request to broadcast address (spoofed source).
+  - Amplification attack.
+  - Blocked by ingress filters mostly now.
+- Adware Installation (Jeanson James Ancheta case).
+  - First botnet trial (Nov 2005).
+  - 400,000 zombies.
+  - "Clicks4Hire" scam / Adware installation ($100,000 profit).

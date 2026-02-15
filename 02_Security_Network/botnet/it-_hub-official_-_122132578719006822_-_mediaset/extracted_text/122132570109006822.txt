@@ -1,0 +1,6 @@
+SDBot Exploits
+Exploits vulnerabilties: DameWare (6129), Imail (143), MSSQL (1433)...
+Backdoors: Optix (3140), Bagle (2745), Mydoom (3127)...
+
+Agobot (aka Gaobot)
+Arrived 2002, modular design.

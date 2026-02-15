@@ -1,0 +1,10 @@
+Phishing Life Cycle (continued)
+- Attack: Launches attack (Web, Email, IM, etc.).
+- Collection: Collects credentials (web form, email response).
+- Fraud: Cashers convert credentials to cash/goods.
+- Post Attack: Shutdown, erase evidence, launder proceeds.
+
+Storage and Distribution of Illegal content
+- Botnets used for storage of warez, movies, games.
+- Hidden directories (Recycle Bin with special SID-like names).
+- Losses from piracy ($2.3 billion in 2005).

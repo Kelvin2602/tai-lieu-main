@@ -1,0 +1,8 @@
+SYN Flood Attack
+- Attacker sends thousands of SYN messages without replying to SYN-ACK.
+- Receiver's connection table fills up (backlog).
+- Prevents legitimate traffic (Web, FTP, etc.).
+- Figure 2.5: SYN Flood Example.
+
+Other DDoS:
+- UDP Flood (small UDP packets to random ports).

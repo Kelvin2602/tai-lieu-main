@@ -1,0 +1,6 @@
+Web-Based C&C Models
+- Connect & Forget: Log connections to IP.
+- File Data: Download instructions/updates from a file.
+- URL Data: Encode info in URL parameters (e.g., port, password).
+  - Example: `http://botnet1.example.com/blah.txt?port=34556password=qwerty211`
+- Command-Based:

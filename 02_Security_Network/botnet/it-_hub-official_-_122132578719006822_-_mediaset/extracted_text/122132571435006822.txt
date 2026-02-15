@@ -1,0 +1,6 @@
+Abuse Notification Example
+- To: abuse@enormoussu.edu
+- From: Nancy Netadmin
+- Subject: 192.168.249.146 is listed as exploited.lsass.org
+- Dig output showing the record.
+- Request investigation.

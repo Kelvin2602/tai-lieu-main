@@ -1,0 +1,11 @@
+Botnet Definition
+- Bot client must take action without hacker logging in.
+- Coordinated fashion with little intervention.
+- Melding of many threats into one.
+
+Botnet Structure
+- Bot Server (IRC).
+- Botclients (zombies/drones).
+- Botherder sends commands.
+- Use of obfuscating proxy / Tor.
+- Commands to erase evidence.

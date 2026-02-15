@@ -1,0 +1,9 @@
+P2P Botnets
+- Sinit (Calypso) 2003: First P2P bot.
+- Agobot/Phatbot: P2P option.
+- Pros: Decentralized, no single point of failure.
+- Cons: Injection of commands from any peer; tracking entire network by enumeration.
+
+IM C&C
+- Worms spreading via AIM, Yahoo, MSN.
+- Using IM accounts as echo control channels.

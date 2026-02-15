@@ -1,0 +1,12 @@
+Solutions Fast Track
+The Killer Web App
+- Botnet is modular and adaptive.
+- Targetable attacks.
+
+How Big Is the Problem?
+- Microsoft's MSRT removed 16 million instances from 6 million computers.
+- Bots represented a majority of removals.
+- Botnet plague threatens the Internet.
+- "Losing the Botnet War" (eWEEK).
+- Botnets are key hub for organized crime.
+- Hydra analogy: cutting off one head spawns two.

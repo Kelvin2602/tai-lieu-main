@@ -1,0 +1,37 @@
+Bot Families Key Points
+
+SDBot
+- One of the oldest bot families (> 5 years).
+- Open source source code.
+- Spreads primarily via network shares (weak passwords).
+- Modifies Windows registry to start automatically.
+
+RBot
+- Originated in 2003.
+- Uses packing utilities (Morphine, UPX, etc.) to encrypt bot code.
+- Terminates antivirus and security products.
+
+Agobot
+- Capable of spreading via Peer-to-Peer (P2P) networks.
+- Modifies Hosts file to block security sites.
+- Steals CD keys.
+
+--- VIETNAMESE TRANSLATION ---
+
+CÁC ĐIỂM CHÍNH VỀ GIA ĐÌNH BOT
+
+SDBot
+- Một trong những gia đình bot lâu đời nhất (> 5 năm).
+- Mã nguồn mở.
+- Lây lan chủ yếu qua chia sẻ mạng (mật khẩu yếu).
+- Sửa đổi registry Windows để tự động khởi động.
+
+RBot
+- Bắt nguồn từ năm 2003.
+- Sử dụng các tiện ích đóng gói (Morphine, UPX, v.v.) để mã hóa mã bot.
+- Vô hiệu hóa các sản phẩm diệt virus và bảo mật.
+
+Agobot
+- Có khả năng lây lan qua mạng Ngang hàng (P2P).
+- Sửa đổi tệp Hosts để chặn các trang web bảo mật.
+- Ăn cắp khóa CD (CD keys).

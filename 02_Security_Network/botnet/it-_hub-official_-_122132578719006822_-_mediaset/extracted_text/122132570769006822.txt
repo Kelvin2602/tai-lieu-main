@@ -1,0 +1,16 @@
+Incident Response Criteria
+Engage law enforcement if:
+- Loss of financial data.
+- Loss of student information.
+- illegal material (child pornography).
+
+Forensic Usage
+- Digital signature of original drive.
+- Forensically sound image.
+- Chain of custody.
+- Quick forensics: extract attack vectors, botnet architecture, code samples.
+- Steps:
+  1. Receive notification.
+  2. Open ticket.
+  3. Quarantine network.
+  4. Perform quick forensics.

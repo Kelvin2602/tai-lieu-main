@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx claude-code-templates@latest --agent=expert-advisors/documentation-expert --yes)",
+      "Bash(dir:*)",
+      "Bash(tree:*)",
+      "Bash(\"D:\\tai-lieu-main\\skills-main\\tree_structure.txt\")",
+      "Bash(/plugin marketplace add:*)",
+      "Bash(echo:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

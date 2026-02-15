@@ -1,0 +1,6 @@
+The Killer Web App
+
+Describes the current state of botnets.
+"It is not just a virus; it is a virus of viruses. The botnet is modular..."
+It exploits vulnerabilities to gain control, installs protection, and scans for other systems.
+Botnets are adaptive.

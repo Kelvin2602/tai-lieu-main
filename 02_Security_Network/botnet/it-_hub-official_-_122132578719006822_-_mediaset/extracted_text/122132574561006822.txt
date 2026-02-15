@@ -1,0 +1,5 @@
+Cricket & SNMP Statistics
+- Cricket: Graphic visualization of SNMP data.
+- Figure 5.3: DoS Attack graph.
+  - Shows massive spike in "bits per second" (outbound traffic).
+- Helps identify internal attacking host.

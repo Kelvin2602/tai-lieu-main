@@ -1,0 +1,25 @@
+Botnet Life Cycle Diagram
+
+1. Computer is Exploited -> Becomes a Bot
+2. New Bot Rallys to let Botherder Know It's Joined the Team
+3. Retrieve the Anti A/V Module
+4. Secure the New Bot Client
+5. Listen to the C&C Server/Peer for Commands
+6. Retrieve the Payload Module
+7. Execute the Commands
+8. Report Result to the C&C Channel
+9. On Command, Erase All Evidence and Abandon the Client
+
+--- VIETNAMESE TRANSLATION ---
+
+SƠ ĐỒ VÒNG ĐỜI BOTNET
+
+1. Máy tính bị khai thác -> Trở thành Bot
+2. Bot mới tập hợp để thông báo cho Botherder biết nó đã tham gia đội
+3. Tải xuống Module chống A/V
+4. Bảo mật Client Bot mới
+5. Lắng nghe Máy chủ C&C/Peer để nhận lệnh
+6. Tải xuống Module Payload
+7. Thực thi các lệnh
+8. Báo cáo kết quả về kênh C&C
+9. Theo lệnh, xóa mọi bằng chứng và bỏ lại Client

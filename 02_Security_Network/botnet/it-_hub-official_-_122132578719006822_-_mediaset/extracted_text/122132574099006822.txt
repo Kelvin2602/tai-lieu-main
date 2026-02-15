@@ -1,0 +1,6 @@
+DirectRevenue Settlement Details
+- EULA must disclose ads and data collection clearly.
+- Uninstaller must be provided.
+- Monitor distributors for compliance.
+- No installation on children's sites (18+ restriction).
+- No use of "free" if ad-supported (unless disclosed).

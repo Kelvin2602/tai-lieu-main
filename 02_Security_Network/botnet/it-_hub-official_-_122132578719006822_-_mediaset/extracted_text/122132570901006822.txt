@@ -1,0 +1,6 @@
+FAQ
+Q: What is an alternative botnet C&C?
+A: A different control channel than common IRC.
+
+Q: How can these be of use?
+A: As a main C&C using different technology (e.g. Web, P2P), or as a backup/secondary C&C if the main one fails (IRC).

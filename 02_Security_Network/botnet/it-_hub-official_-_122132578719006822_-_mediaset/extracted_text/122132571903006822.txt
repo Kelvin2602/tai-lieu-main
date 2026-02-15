@@ -1,0 +1,6 @@
+Open-Source Sniffers
+- Tcpdump and Wireshark.
+- Packet capture for analysis.
+- Filter expressions (e.g., host 192.168.1.1).
+- Example command: `tcpdump -X -s 1500 host 192.168.1.1`.
+- Finding C&C channel (IRC commands like JOIN, PRIVMSG, NICK).

@@ -1,0 +1,11 @@
+Login Failures
+- Logon type 3 (Network) where originating workstation differs from victim and domain is attacker's name.
+
+Figure 5.4 Failed Login Record
+Event Viewer screenshot showing Logon Failure:
+- User Name: Administrator
+- Domain: ATTACKER
+- Logon Type: 3
+- Workstation Name: ATTACKER
+
+Password guessing attacks occur rapidly.

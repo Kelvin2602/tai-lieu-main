@@ -1,0 +1,9 @@
+Warez Group Convictions (Table)
+- Christopher Tresco (BigRar) - RiSC, DrinkOrDie.
+- Derek Eiser (Psychod) - DrinkOrDie.
+- Mike Nguyen (Hackrat) - Razor1911, RiSC.
+- Other defendants from DrinkOrDie, POPZ, SMR, EXODUS.
+- Offenses: Conspiracy, Criminal Copyright Infringement.
+
+Ransomware
+- Holding computer/info hostage via DDoS or encryption until ransom paid (PayPal, Western Union).

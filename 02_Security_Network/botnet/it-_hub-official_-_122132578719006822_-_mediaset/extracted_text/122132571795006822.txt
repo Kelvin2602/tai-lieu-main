@@ -1,0 +1,9 @@
+GT Bot Family
+- Based on mIRC scripting.
+- Not spreading directly (social engineering).
+- Single package, not modular.
+
+SDBot (revisited)
+- 2002, C++, source available.
+- Easy to modify.
+- Spreads via NetBios, NTPass, DCom...

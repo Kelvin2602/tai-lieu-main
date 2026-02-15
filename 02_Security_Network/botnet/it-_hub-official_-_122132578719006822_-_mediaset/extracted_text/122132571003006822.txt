@@ -1,0 +1,11 @@
+RBot Propagation
+- Copies self to Admin$\system32, c$\winnt\system32, c$\windows\system32.
+
+Using Known Vulnerability Exploits
+- LSASS buffer overflow (TCP 445).
+- ntdll.dll buffer overflow (Webdav) (TCP 80).
+- RPC malformed message (TCP 135, 445, 1025).
+- RPCSS malformed DCOM message (TCP 135).
+- MSSQL weak passwords (TCP 1433).
+- UPnP NOTIFY overflow (TCP 5000).
+- DameWare Mini Remote Control overflow (TCP 6129).

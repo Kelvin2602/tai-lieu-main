@@ -1,0 +1,18 @@
+SPIM (Spam for Instant Messaging)
+Bots have now been used to send phishing attacks and links via IM.
+Example SPIM message: "ATTENTION... Windows.has.found.55.Critical.System.Errors... Download Registry Update from: www.regfixit.com"
+
+Cases in the News: "THr34t-Krew"
+In February 2003, Andrew Harvey and Jordan Bradley (authors of TK worm), a GT Bot variant, were arrested in the U.K.
+They admitted conspiracy to cause unauthorized modification of computers.
+
+--- VIETNAMESE TRANSLATION ---
+
+SPIM (Spam qua Tin nhắn Tức thời)
+
+Các bot hiện đã được sử dụng để gửi các cuộc tấn công lừa đảo và liên kết qua IM.
+Ví dụ tin nhắn SPIM: "CHÚ Ý... Windows.đã.tìm.thấy.55.Lỗi.Hệ.thống.Nghiêm.trọng... Tải xuống Cập nhật Registry từ: www.regfixit.com"
+
+Các vụ việc trên tin tức: "THr34t-Krew"
+Vào tháng 2 năm 2003, Andrew Harvey và Jordan Bradley (tác giả của sâu TK), một biến thể GT Bot, đã bị bắt tại Vương quốc Anh.
+Họ thừa nhận âm mưu gây ra sự sửa đổi trái phép máy tính.

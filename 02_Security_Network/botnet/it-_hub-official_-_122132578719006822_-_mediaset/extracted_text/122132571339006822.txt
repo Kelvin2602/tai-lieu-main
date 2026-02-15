@@ -1,0 +1,10 @@
+SDBot Registry Values (continued)
+"Fixnice" = "vcvw.exe"
+"Internet Config" = "svchosts.exe"
+"Internet Protocol Configuration Loader" = "ipcl32.exe"
+"Microsoft Video Capture Controls" = "MSsrvs32.exe"
+...
+
+Additional Files:
+- SVKP.sys (SVK Protector)
+- msdirectx.sys

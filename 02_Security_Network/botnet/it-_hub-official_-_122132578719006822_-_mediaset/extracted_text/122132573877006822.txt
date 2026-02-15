@@ -1,0 +1,7 @@
+SpamThru Analysis
+- Shutdown of one zombie doesn't stop spam.
+- Botnets use Dynamic DNS to survive takedowns.
+- SpamThru Trojan (Joe Stewart analysis).
+- 73,000 nodes.
+- Template-based spam engine.
+- Organized into groups by bandwidth/speed (dial-up vs broadband).

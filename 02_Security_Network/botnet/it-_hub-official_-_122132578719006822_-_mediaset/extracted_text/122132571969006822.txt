@@ -1,0 +1,8 @@
+RBot Process Names (continued)
+- netstat.exe, msblast.exe, zapro.exe, navw32.exe...
+- Penis32.exe, bbeagle.exe...
+
+Unexpected Traffic
+- RBot connects to IRC server.
+- Port 113 (ident) activity.
+- Tip: Use restricted login to limit malware spread.

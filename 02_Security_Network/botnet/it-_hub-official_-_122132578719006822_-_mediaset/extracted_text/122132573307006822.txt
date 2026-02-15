@@ -1,0 +1,7 @@
+Forensic Process
+- Operation Order.
+- Chain of Custody (who, what, where, when).
+- Record every command.
+- Avoid installing software on target.
+- Record timestamps.
+- Case Study: 200+ botnet clients found over 4 months. RBot/Phatbot.

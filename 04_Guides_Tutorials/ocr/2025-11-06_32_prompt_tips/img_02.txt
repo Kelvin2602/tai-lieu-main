@@ -1,0 +1,15 @@
+﻿彐IV>cs计算机科学>ar×iv：2509，04343
+ComputerScience>ArtificiaIlntelligence
+计算机科学>人工智能
+[Submitted0门4Sep202刃
+／提交于2025年9月4日7
+Psych010gicalIyEnhancedAIAgents
+心理增强型AI智能体
+MaciejBesta，ShriramChandran,RobertGerstenberger,MathisLint
+Niewiadomski，PiotrNyczyk,JürgenMüller，TorstenHoefler
+WeintroduceMBTl-in-Thoughts,aframeworkf0renhancingtheeffectiven
+conditioning.DrawingontheMyers-BriggsTypelndicator(MBTI),ourmeth
+behavioralongtwofoundationalaxes0fhumanpsychologycognitionand
+acrossdiversetasks.emotionallyexpressiveagentsexcelinnarrativegene
+OurframeworksupportSexperimentingwithstructuredmulti—agentcomm
+

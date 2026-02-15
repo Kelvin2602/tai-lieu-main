@@ -1,0 +1,9 @@
+Attacks against Unpatched Vulnerabilities
+
+Botnets scan for open ports and use vulnerability scanners.
+Every "Patch Tuesday" from Microsoft is followed by a flurry of reverse engineering.
+Modular botnets incorporate new exploits almost overnight.
+
+Vulnerabilities Commonly Exploited by Bots:
+Agobot spreads via:
+- Remote Procedure Call (RPC) Distributed Component Object Model (DCOM) (TCP ports 135, 139, 445...) to XP

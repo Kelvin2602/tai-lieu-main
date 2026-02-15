@@ -1,0 +1,7 @@
+Future of Botnets
+- Rumors of ICMP-controlled botnets.
+- C&C on social networking sites like MySpace.
+- Advanced encryption.
+- Compartmentalization: smaller botnets, "cell" structure like terrorist organizations.
+- If a brand is lost, the tree remains alive.
+- Botnets are here to stay.

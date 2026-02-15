@@ -1,0 +1,25 @@
+Common Botnets
+
+Solutions in this chapter:
+- SDBot
+- RBot
+- Agobot
+- Spybot
+- Mytob
+
+Summary
+Solutions Fast Track
+
+--- VIETNAMESE TRANSLATION ---
+
+CÁC BOTNET PHỔ BIẾN
+
+Giải pháp trong chương này:
+- SDBot
+- RBot
+- Agobot
+- Spybot
+- Mytob
+
+Tóm tắt
+Giải pháp Nhanh

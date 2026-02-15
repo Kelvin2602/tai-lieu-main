@@ -1,0 +1,8 @@
+SDBot Rootkit & Traffic
+- Msdirectx.sys (rootkit functionality).
+- IRC traffic on port 6667 or 7000.
+
+Check for Open Ports
+- `netstat -a`.
+- `nmap` (external scan) if netstat is compromised.
+- Channel names example: Zxcvbnmas.i989.net.

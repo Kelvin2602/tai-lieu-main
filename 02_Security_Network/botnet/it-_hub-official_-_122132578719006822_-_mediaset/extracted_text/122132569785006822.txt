@@ -1,0 +1,9 @@
+Spybot
+- Core functionality based on SDBot.
+- Keylogger, password stealing.
+- Spreads via network shares and vulnerabilities.
+
+Mytob
+- Mass-mailing worm, infects with SDBot.
+- Harvests email addresses.
+- Eliminates addresses from security domains.

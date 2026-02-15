@@ -1,0 +1,7 @@
+Identifying Attackers via SNMP/Netflow
+- Locating host physically (switch port mapping).
+- Crisis: DoS attack saturating WAN link.
+- Netflow:
+  - Analyzing traffic flows/protocols.
+  - Cisco standard.
+  - Detects routing anomalies (BGP) and IP traffic.

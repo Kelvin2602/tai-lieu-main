@@ -1,0 +1,8 @@
+Ransomware & Asset Storage
+- Storage: 20-30GB stolen from each client for hosting illegal content.
+- Ransomware: Encrypts user files.
+- Payment: e-Gold, Western Union.
+- Example: Zippo ransomware ($10.99 to $300).
+
+FAQ: Am I part of a botnet?
+- Signs: Sluggishness, weird traffic, but hard to tell for sure.

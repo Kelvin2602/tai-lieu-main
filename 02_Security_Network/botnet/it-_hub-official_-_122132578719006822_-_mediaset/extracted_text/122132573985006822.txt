@@ -1,0 +1,5 @@
+Mytob Registry & Propagation
+- Registry keys: Run "LSA" = wfdmgr.exe.
+- Unexpected Traffic: Connects to irc.blackcarder.net.
+- Propagation: Mass-mailing (harvests emails).
+- Avoids domains in Table 4.11 (security vendors, gov).

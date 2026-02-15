@@ -1,0 +1,5 @@
+Digital Forensics Basics
+- Admissibility: Relevancy and reliability.
+- Integrity: Avoid altering evidence (checksums, write blockers).
+- Chain of Custody: Accounting for everyone who handled evidence.
+- Work on copies/images, not original.

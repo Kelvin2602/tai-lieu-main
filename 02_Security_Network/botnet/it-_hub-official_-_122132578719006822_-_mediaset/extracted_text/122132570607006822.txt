@@ -1,0 +1,7 @@
+WHOIS Information
+- arin.net, apnic.net, ripe.net, lacnic.net, afrinic.net.
+
+Spam and Abuse
+- Abuse email might indicate botnet activity.
+- Blacklisted domains/subdomains are costly.
+- Open proxies: used by spammers to launder spam. High traffic in/out indicates infection.

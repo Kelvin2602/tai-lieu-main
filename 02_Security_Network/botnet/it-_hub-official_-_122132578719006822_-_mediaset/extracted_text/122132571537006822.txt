@@ -1,0 +1,9 @@
+History: GM Bot and Pretty Park
+- GM (1989) by Greg Lindahl: Hunt the Wumpus game bot.
+- Evolution from benevolent bots to malicious ones.
+- Bots used to keep channels open.
+
+Pretty Park
+- May 1999, written in Delphi.
+- Retrieve system info.
+- Search/retrieve email addresses/ICQ names.

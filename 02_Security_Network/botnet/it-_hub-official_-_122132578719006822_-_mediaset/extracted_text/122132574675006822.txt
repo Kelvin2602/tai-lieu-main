@@ -1,0 +1,6 @@
+Reimaging & Logging Strategy
+- Reimaging infected machines (preferable to cleaning).
+- Removes local admin accounts created by bot.
+- Tracking spreadsheet for reinfections.
+- NTsyslog: Forwarding logs to central syslog server/SQL database.
+- Firewall Logs: Default location `%WinDir%\pfirewall.log`.

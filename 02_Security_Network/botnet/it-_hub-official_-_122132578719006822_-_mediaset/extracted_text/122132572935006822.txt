@@ -1,0 +1,14 @@
+Spybot Evolution
+- Evolution of SDBot (open source).
+- Adds spyware capabilities: keystroke logging, email harvesting.
+
+Spybot Aliases
+- McAfee: W32/Spybot.worm.gen
+- Symantec: W32.Spybot.Worm
+- Trend Micro: Worm_Spybot.gen
+- Kaspersky: Worm.P2P.Spybot.Gen
+- CA: Win32.Spybot.gen
+
+Infection
+- Network shares, P2P, existing backdoors.
+- SPIM (Spam over IM).

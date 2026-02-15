@@ -1,0 +1,9 @@
+Host-Based Detection
+- Snort as hybrid (network + host characteristics?).
+- Host-level checks:
+  - Executable analysis.
+  - Registry changes.
+  - Auditing logs.
+  - File system (hidden dirs).
+  - Network services (misuse).
+- Importance of defense in depth.

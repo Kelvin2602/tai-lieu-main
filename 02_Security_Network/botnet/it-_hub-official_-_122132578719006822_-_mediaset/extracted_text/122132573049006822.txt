@@ -1,0 +1,8 @@
+Integrity Management
+- Change detection (Tripwire).
+- Formerly part of AV, now separate.
+
+Trusting Trust
+- Ken Thompson's Turing Award Lecture (1984).
+- Compiler backdoor: Compiler introduces backdoor into itself and the OS login program.
+- "You can't trust code that you did not totally create yourself." 

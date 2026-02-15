@@ -1,0 +1,5 @@
+DNS Dig Output
+- exploited.lsass.org pointing to 10.0.0.1, 10.2.2.3, 192.168.249.146.
+- Authority section: lsass.org NS ns.dns.somecountry.
+- Reverse DNS lookups.
+- Email correspondence regarding the exploited host.

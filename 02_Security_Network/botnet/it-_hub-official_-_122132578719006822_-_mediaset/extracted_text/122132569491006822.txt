@@ -1,0 +1,12 @@
+Batch File Script Content (Page 1)
+
+@echo off
+echo *--------------------------------* >> info.txt
+echo *--Computer Specs.... >> info.txt
+psinfo.exe -d >> info.txt
+Diskinfo
+echo *--List of Current Processes Running... >> info.txt
+fport.exe /ap >> info.txt
+echo *--List of Current Running/Stopped Services.. >> info.txt
+xnet.exe list >> info.txt
+echo *--List of Whois Info.. >> info.txt

@@ -1,0 +1,13 @@
+{
+  "enableAllProjectMcpServers": true,
+  "permissions": {
+    "allow": [
+      "Bash(dir /s /b \"D:\\tai-lieu-main\")",
+      "Bash(tree:*)",
+      "Bash(awk '{print $9, \"\"\"\"(\"\"\"\" $5 \"\"\"\")\"\"\"\"}')"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
+

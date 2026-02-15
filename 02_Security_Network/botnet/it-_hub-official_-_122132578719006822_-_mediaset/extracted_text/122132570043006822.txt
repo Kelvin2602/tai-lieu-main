@@ -1,0 +1,5 @@
+Internet Security Operations and Intelligence Workshop
+Held at Cisco Headquarters, 200 attendees.
+Led by Gadi Evron.
+Discussed "Kill the head of the snake" approach vs decentralized botnets.
+Mention of Fast Flux DNS.

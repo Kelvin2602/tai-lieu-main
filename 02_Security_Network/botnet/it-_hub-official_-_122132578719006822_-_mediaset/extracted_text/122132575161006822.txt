@@ -1,0 +1,10 @@
+Botnet Life Cycle Steps
+1. Exploit & Become Client.
+2. Rally (Call Home).
+3. Retrieve Anti-AV module.
+4. Secure client (remove rival bots).
+5. Listen for commands (C&C).
+6. Retrieve payloads.
+7. Execute commands.
+8. Report results.
+9. Abandon/Erase evidence.

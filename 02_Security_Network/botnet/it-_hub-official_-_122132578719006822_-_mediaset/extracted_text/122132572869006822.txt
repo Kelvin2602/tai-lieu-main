@@ -1,0 +1,5 @@
+Spam Thru Architecture (Figure)
+- Template Servers -> SpamThru Server -> Botnet Clients -> Email Spam Proxies -> Internet.
+- Use of spam proxies to protect spammer from RBLs (Relay Black Lists).
+- Rotating proxies to avoid listing.
+- 1 billion spam emails/day capacity example.

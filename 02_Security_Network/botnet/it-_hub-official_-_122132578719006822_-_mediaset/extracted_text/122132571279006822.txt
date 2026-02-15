@@ -1,0 +1,10 @@
+SDBot Registry Entries & Processes
+Registry Keys:
+- HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run
+- RunServices
+
+Filenames/Process Names:
+- Mssql.exe, MSsrvs32.exe, MSTasks.exe, quicktimeprom.exe, Regrun.exe, vcvw.exe, winupdate32.exe, xmconfig.exe, YahooMsgr.exe.
+
+Registry Values:
+"Configuration Loader" = "MSTasks.exe" etc.

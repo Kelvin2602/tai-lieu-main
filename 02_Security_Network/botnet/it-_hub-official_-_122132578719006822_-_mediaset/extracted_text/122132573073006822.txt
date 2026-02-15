@@ -1,0 +1,9 @@
+Layer 2 Defense in Depth
+- Host firewalls, crypto protocols.
+- Attacks:
+  - ARP Spoofing (Masquerading as router).
+  - Switch table flooding (fail open to hub mode for sniffing).
+  - DHCP attacks (Rogue DHCP server).
+
+Switch Configuration
+- Vendor features (DHCP snooping, ARP inspection).

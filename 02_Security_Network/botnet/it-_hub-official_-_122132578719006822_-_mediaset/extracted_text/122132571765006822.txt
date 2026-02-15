@@ -1,0 +1,7 @@
+Multihoming and Alternative Control Channels
+- Multihoming: DNS record pointing to several IPs (botnet1.example.com -> 127.0.0.1, 127.0.0.2...).
+- Redundancy.
+- Weak spot moved from IP to DNS record.
+
+Alternative Control Channels
+- Not just IRC.

@@ -1,0 +1,4 @@
+Log Parser Output (Table 5.1)
+- "Fan out" pattern: Single computer infects subnet.
+- Table shows ATTACKER1 attempting logins on VICTIM using various accounts (jdoe).
+- Then ATTACKER2 succeeds with 'Administrator' account.

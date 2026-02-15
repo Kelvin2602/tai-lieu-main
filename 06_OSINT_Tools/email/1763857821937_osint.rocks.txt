@@ -1,0 +1,159 @@
+
+.d8888b.  888    888                   888    
+    d88P  Y88b 888    888                   888    
+    888    888 888    888                   888    
+    888        8888888888 888  888 88888b.  888888 
+    888  88888 888    888 888  888 888 "88b 888    
+    888    888 888    888 888  888 888  888 888    
+    Y88b  d88P 888    888 Y88b 888 888  888 Y88b.  
+     "Y8888P88 888    888  "Y88888 888  888  "Y888 v2
+
+             By: mxrch (🐦 @mxrchreborn)
+       Support my work on GitHub Sponsors ! 💖
+    
+
+         > GHunt 2.3.3 (🕷️  Spider Edition) <        
+
+🎉 You are up to date !
+
+[+] Stored session loaded !
+[+] Authenticated !
+
+🙋 Google Account data
+
+[+] Custom profile picture !
+=> https://lh3.googleusercontent.com/a-/ALV-UjWBetU-AfnlPwYoxprbSdABFM1vUPd9rOr4DZHPfrh0ArvNWPryBA
+
+[-] Default cover picture
+
+Last profile edit : 2025/08/21 08:17:56 (UTC)
+
+Email : hoangdung209199@gmail.com
+Gaia ID : 107123825198453122752
+
+User types :
+- GOOGLE_USER (The user is a Google user.)
+
+📞 Google Chat Extended Data
+
+Entity Type : PERSON
+Customer ID : Not found.
+
+🌐 Google Plus Extended Data
+
+Entreprise User : False
+
+🎮 Play Games data
+
+[-] No player profile found.
+
+🗺️ Maps data
+Traceback (most recent call last):
+  File "/var/www/html/osint.rocks/venv/bin/ghunt", line 8, in 
+    sys.exit(main())
+             ^^^^^^
+  File "/var/www/html/osint.rocks/venv/lib/python3.11/site-packages/ghunt/ghunt.py", line 18, in main
+    parse_and_run()
+  File "/var/www/html/osint.rocks/venv/lib/python3.11/site-packages/ghunt/cli.py", line 63, in parse_and_run
+    process_args(args)
+  File "/var/www/html/osint.rocks/venv/lib/python3.11/site-packages/ghunt/cli.py", line 73, in process_args
+    asyncio.run(email.hunt(None, args.email_address, args.json))
+  File "/usr/lib/python3.11/asyncio/runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/asyncio/runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/asyncio/base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "/var/www/html/osint.rocks/venv/lib/python3.11/site-packages/ghunt/modules/email.py", line 117, in hunt
+    err, stats, reviews, photos = await gmaps.get_reviews(as_client, target.personId)
+                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/html/osint.rocks/venv/lib/python3.11/site-packages/ghunt/helpers/gmaps.py", line 59, in get_reviews
+    data = json.loads(req.text[5:])
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+📊 THÔNG TIN BỔ SUNG - PHÂN TÍCH NÂNG CAO
+
+🔍 Reverse Image Search URLs:
+- Google Images: https://images.google.com/searchbyimage?image_url=https://lh3.googleusercontent.com/a-/ALV-UjWBetU-AfnlPwYoxprbSdABFM1vUPd9rOr4DZHPfrh0ArvNWPryBA
+- TinEye: https://tineye.com/ (Upload manually)
+- Yandex: https://yandex.com/images/ (Upload manually)
+- Bing: https://www.bing.com/images/search?view=detailv2&iss=sbi (Upload manually)
+
+📅 Google Calendar:
+- Public Calendar: https://calendar.google.com/calendar/u/0/embed?src=hoangdung209199@gmail.com
+
+🔎 Google Search Queries:
+- "hoangdung209199@gmail.com"
+- "hoangdung209199@gmail.com" site:github.com
+- "hoangdung209199@gmail.com" site:linkedin.com
+- "hoangdung209199@gmail.com" site:facebook.com
+- "hoangdung209199@gmail.com" site:twitter.com
+- "hoangdung209199" site:instagram.com
+
+🎥 YouTube Channel:
+- Potential Channel: https://www.youtube.com/channel/UC107123825198453122752
+- Alternative Channel: https://www.youtube.com/channel/107123825198453122752
+- Custom URL: https://www.youtube.com/@107123825198453122752
+
+📸 Google Photos:
+- Album Archive: https://get.google.com/albumarchive/107123825198453122752
+- Shared Photos: https://photos.google.com/share/107123825198453122752
+
+📝 PHÂN TÍCH THÊM
+
+🔐 Account Security:
+- Account appears to be active with recent profile edit (2025/08/21)
+- Custom profile picture indicates active usage
+- No public Play Games profile found
+
+🌐 Online Presence:
+- Username pattern: hoangdung209199
+- Potential variations: hoangdung2092995 (related account found)
+- Email domain preference: Gmail
+
+📊 Comparison with Related Account:
+- Related email: hoangdung2092995@gmail.com
+- Related Gaia ID: 115822137212282857906
+- Related services: Meet, Photos, Maps (activated)
+
+🎯 KHUYẾN NGHỊ TIẾP THEO
+
+1. Reverse Image Search:
+   - Upload profile picture to TinEye and Yandex
+   - Compare results to identify potential other profiles
+
+2. Social Media Investigation:
+   - Search username "hoangdung209199" on major platforms
+   - Check for variations like "hoangdung2092995"
+
+3. Google Services:
+   - Check public Google Drive files
+   - Look for public YouTube videos or playlists
+   - Verify Google Photos public albums
+
+4. Email Permutations:
+   - Try variations with different providers
+   - Check for professional email addresses
+
+5. Location Analysis:
+   - Extract potential location data from profile
+   - Cross-reference with Maps data (if accessible)
+
+⚠️ LƯU Ý QUAN TRỌNG:
+- Maps data extraction failed due to JSONDecodeError
+- This is a common issue with GHunt when accessing Maps data
+- Consider using alternative methods for location analysis
+
+                

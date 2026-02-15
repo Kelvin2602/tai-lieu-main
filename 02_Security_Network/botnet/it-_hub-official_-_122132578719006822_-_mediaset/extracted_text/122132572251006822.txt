@@ -1,0 +1,6 @@
+A Simple Botnet (Figure 1.2 Description)
+1. New botclient rallies to C&C (IRC).
+2. Botherder posts command (e.g., prevent competitor's site orders).
+3. Botclients receive command.
+4. DDoS attack starts at appointed time.
+5. Botclients report results.

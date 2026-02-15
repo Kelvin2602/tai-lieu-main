@@ -1,0 +1,7 @@
+Layer 2 Attacks
+- ARP Spoofing/Poisoning: Attacker associates their MAC with Victim IP or Router IP.
+  - Enables Man-in-the-Middle (MITM).
+- Switch Forwarding Table Overflow (CAM Table Overflow):
+  - Floods switch with fake MACs.
+  - Switch fails open (hub mode), broadcasting all traffic.
+  - Tools: Ettercap.

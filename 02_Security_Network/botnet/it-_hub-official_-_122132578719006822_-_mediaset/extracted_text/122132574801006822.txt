@@ -1,0 +1,6 @@
+Darknets (Network Telescopes)
+- Monitoring unused IP space (black hole).
+- Assumptions: No legitimate traffic should go there.
+- Traffic = Misconfiguration or Malicious (scanning, backscatter).
+- Internet Motion Sensor (IMS).
+- Cymru Darknet Project.

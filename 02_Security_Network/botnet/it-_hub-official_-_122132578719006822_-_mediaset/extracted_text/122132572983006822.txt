@@ -1,0 +1,12 @@
+Agobot Registry & Processes
+- Registry: HKLM...RunServices (hidden from Close Program dialog).
+
+Terminated Processes
+- Shuts down AV and competing malware.
+
+Modify Hosts File
+- Redirects AV update sites (Symantec, McAfee) to 127.0.0.1.
+- Prevents updates.
+
+Theft of Information
+- Steals CD keys for games.

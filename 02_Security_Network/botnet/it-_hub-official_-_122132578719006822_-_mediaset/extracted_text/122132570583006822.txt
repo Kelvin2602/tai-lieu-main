@@ -1,0 +1,13 @@
+Spybot Capabilities
+- Port scanning.
+- DDoS attacks (UDP, SYN flood).
+- Social engineering for P2P.
+- Fake error messages.
+- Keylogging (general or IE specific).
+- Clipboard logging.
+- Grabbing cached passwords (Win 9x).
+- Screen capture on mouse click (to defeat graphical keypads).
+- Spim (spam over IM).
+- Sniffing network for IDs/passwords.
+- Killing AV processes.
+- Rootkit functionality.
